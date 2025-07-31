@@ -1,0 +1,49 @@
+
+- name: add-item
+  color: a2eeef
+  description: "Add new site or item to awesome list"
+- name: update-item
+  color: a2eeef
+  description: "Update a site or item on the awesome list"
+- name: category
+  color: a2eeef
+  description: "Add or update a category to the awesome list"
+- name: label
+  color: a2eeef
+  description: "Add or update a label to the awesome list"  
+- name: configuration
+  color: a2eeef
+  description: "Issue refers to the awesome list configuration"
+- name: generation
+  color: a2eeef
+  description: "Issue refers to the awesome list markdown generation"
+- name: collection
+  color: a2eeef
+  description: "Issue refers to the site or item metadata collection"
+- name: question
+  color: a2eeef
+  description: "Further information is requested"
+- name: documentation
+  color: a2eeef
+  description: "Changes to documentation"
+- name: bug
+  color: d73a4a
+  description: "Something isn't working"
+- name: "help wanted"
+  color: 98FF98
+  description: "Extra attention is needed"
+- name: invalid
+  color: cfd3d7
+  description: "This doesn't seem right"
+- name: duplicate
+  color: cfd3d7
+  description: "This issue or pull request already exists"
+- name: "further input needed"
+  color: cfd3d7
+  description: "Not enough detail is provided by the creator"
+- name: "good first issue"
+  color: 98FF98
+  description: "Good for newcomers"
+- name: "auto-generated"
+  color: fbca04
+  description: "Automated feature for awesome list updates"

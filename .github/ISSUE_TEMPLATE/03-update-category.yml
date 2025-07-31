@@ -1,0 +1,56 @@
+name: Add or Update a category
+description: Would you like to suggest a new category or update to a category?
+labels: category
+title: '[Category]: '
+
+body:
+  - type: markdown 
+    attributes:
+     value: "Thank you for suggesting a new category to include in the list."
+  - type: dropdown
+    id: new-update
+    attributes:
+      label: Is this a new category or changes to an existing category? 
+      options: 
+        - New Category 
+        - Update Category 
+    validations:
+      required: true
+  - type: input
+    id: category-name
+    attributes:
+      label: Category Name
+      description: Enter the Category Name 
+    validations:
+      required: true
+  - type: input
+    id: parent-name
+    attributes:
+      label: Parent Name
+      description: Enter the name of the Category parent for grouped categories 
+    validations:
+      required: false
+  - type: input
+    id: description
+    attributes:
+      label: Description
+      description: Enter a Description for the Category
+      placeholder: ex. Automate the creation and management of Awesome Lists
+    validations:
+      required: false  
+  - type: textarea
+    id: more-info
+    attributes:
+      label: More Information
+      description: More information on the category
+      placeholder: Include category additional attributes to be set in the `awesome-list.yaml` file or a link to a related issue (issue to havea new category created). 
+    validations:
+      required: false       
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com). 
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

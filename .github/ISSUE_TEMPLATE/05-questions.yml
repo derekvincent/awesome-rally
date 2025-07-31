@@ -1,0 +1,26 @@
+name: Other Issues, Suggestions or Questions? 
+description: Let us know if you have any question, issue or suggestions. For topic around metadata collection or markdown generation please refer to the derekvincent/awesome-list-generator reporsitory. 
+labels: questions
+title: '[Questions]: '
+
+body:
+  - type: markdown 
+    attributes:
+     value: |
+       Thank you for your questions, suggestions or other issues.
+       If you have an issue or suggestion with the markdown generation or metadata collection, please go to the [Awesome-List-Generator](https://github.com/derekvincent/awesome-list-generator/issues) repository and enter an issue. 
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Let us know more details about the issue, a question, or a suggestion you have!
+    validations:
+      required: true     
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com). 
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

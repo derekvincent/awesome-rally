@@ -1,0 +1,57 @@
+name: Suggest a new site or item 
+description: Do you have a new site or item that is missing from this Awesome List!? 
+labels: add-item
+title: '[New Item]: '
+
+body:
+  - type: markdown 
+    attributes:
+     value: "Thank you for suggesting a new site or item to include in the list. Please make sure you reviewed the list and that the item is not already included."
+  - type: input
+    id: link_id
+    attributes:
+      label: URL
+      description: Enter a valid item URL for the item 
+      placeholder: ex. https://github.com/derekvincent/awesome-list-generator
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: Enter a Name for the item 
+      placeholder: ex. Awesome List Generator Project
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: Description
+      description: Enter a Description for the item 
+      placeholder: ex. Automate the creation and management of Awesome Lists
+    validations:
+      required: false  
+  - type: input
+    id: category
+    attributes:
+      label: Category
+      description: Enter an existing Category from the `README.md` or `awesome-list.yaml` files
+      placeholder: ex. awesome-lists
+    validations:
+      required: false  
+  - type: textarea
+    id: more-info
+    attributes:
+      label: More Information
+      description: More information on the new item
+      placeholder: Include Item additional attributes to be set in the `awesome-list.yaml` file or a link to a related issue (issue to havea new category created). 
+    validations:
+      required: false       
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com). 
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

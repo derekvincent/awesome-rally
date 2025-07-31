@@ -1,0 +1,87 @@
+# Based on https://github.com/derekvincent/awesome-list-template/blob/main/.github/workflows/setup-awesome-list.yml
+name: setup-awesome-list
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+env:
+  DEFAULT_BRANCH: "main"
+  SETUP_BRANCH: "setup"
+  PLACEHOLDER_REPO: "derekvincent/awesome-list-template"
+
+permissions:
+  # Give the default GITHUB_TOKEN write permission to commit and push the
+  # added or changed files to the repository.
+  contents: write
+  pull-requests: write
+
+jobs:
+  setup-awesome-list:
+    #run-script:
+    name: Check if not a template repository
+    if: >-
+      ${{ !github.event.repository.is_template && github.run_number == 1}}
+    runs-on: ubuntu-latest
+    steps:
+      - name: create-update-branch
+        uses: peterjgrainger/action-create-branch@v3.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          branch: ${{ env.SETUP_BRANCH }}
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ env.SETUP_BRANCH }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: setup-template
+        shell: bash
+        run: |
+          echo $GITHUB_REPOSITORY
+          rm -rf history config latest-changes.md README.md awesome-list.yaml ./.github/workflows/setup-awesome-lists.yml CONTRIBUTING.md create-my-own-awesome-list.md
+          mkdir -p ./config
+          cp ./template/footer.md ./config/footer.md
+          cp ./template/header.md ./config/header.md
+          cp ./template/awesome-list.yaml ./awesome-list.yaml
+          cp ./template/CONTRIBUTING.md ./CONTRIBUTING.md
+          rm -rf ./template/
+          sed -i 's:${{ env.PLACEHOLDER_REPO }}:'$GITHUB_REPOSITORY':g' ./awesome-list.yaml
+          sed -i 's:${{ env.PLACEHOLDER_REPO }}:'$GITHUB_REPOSITORY':g' ./config/footer.md
+          sed -i 's:${{ env.PLACEHOLDER_REPO }}:'$GITHUB_REPOSITORY':g' ./config/header.md
+          sed -i 's:${{ env.PLACEHOLDER_REPO }}:'$GITHUB_REPOSITORY':g' ./CONTRIBUTING.md
+          sed -i 's:'$(echo "${{ env.PLACEHOLDER_REPO }}" | sed "s:.*/::")':'$(echo "$GITHUB_REPOSITORY" | sed "s:.*/::")':g' ./config/header.md
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          message: Initial setup for awesome lists
+          branch: ${{ env.SETUP_BRANCH }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Merge Branches
+        uses: everlytic/branch-merge@1.1.2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          source_ref: ${{ env.SETUP_BRANCH }}
+          target_branch: ${{ env.DEFAULT_BRANCH }}
+          commit_message_template: "[Automated] Merged the initial structure for your awesome list"
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ env.DEFAULT_BRANCH }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Delete Merged Branch
+        uses: imajeetyadav/delete-merged-branches@main
+        with:
+          branch: ${{ env.DEFAULT_BRANCH }}
+      - name: sync-labels
+        uses: EndBug/label-sync@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          config-file: ".github/labels.yml"

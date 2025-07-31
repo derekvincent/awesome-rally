@@ -1,0 +1,33 @@
+name: Update a new site or item 
+description: Do you have changes for a site or item in this Awesome List!? 
+labels: update-item
+title: '[Update Item]: '
+
+body:
+  - type: markdown 
+    attributes:
+     value: "Thank you for suggesting a new site or item to include in the list. Please make sure you reviewed the list and that the item is not already included."
+  - type: input
+    id: link_id
+    attributes:
+      label: URL
+      description: Enter an existing item URL 
+      placeholder: ex. https://github.com/derekvincent/awesome-list-generator
+    validations:
+      required: true
+  - type: textarea
+    id: more-info
+    attributes:
+      label: More Information
+      description: Provide More information on the updates required item
+      placeholder: Include Item additional attributes to be set in the `awesome-list.yaml` file or a link to a related issue (issue to havea new category created). 
+    validations:
+      required: false       
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com). 
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Awesome List Generator
+    url: https://github.com/derekvincent/awesome-list-generator/issues/new
+    about: If your having issue with Awesome List generator itself open an issue here to address it. 

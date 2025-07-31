@@ -1,0 +1,57 @@
+name: Add or Update a label
+description: Would you like to suggest a new label or update to a label?
+labels: label
+title: '[Label]: '
+
+body:
+  - type: markdown 
+    attributes:
+     value: "Thank you for suggesting a new label to include in the list."
+  - type: dropdown
+    id: new-update
+    attributes:
+      label: Is this a new label or changes to an existing label? 
+      options: 
+        - New Label 
+        - Update Label 
+    validations:
+      required: true
+  - type: input
+    id: label-name
+    attributes:
+      label: Label Name
+      description: Enter the label name 
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: Description
+      description: Enter a Description for the label
+      placeholder: ex. Automate the creation and management of Awesome Lists
+    validations:
+      required: false 
+  - type: input
+    id: icon-url
+    attributes:
+      label: Icon URL
+      description: Enter a url for the icon to use
+      placeholder: https://github.githubassets.com/favicons/favicon.svg
+    validations:
+      required: false       
+  - type: textarea
+    id: more-info
+    attributes:
+      label: More Information
+      description: More information on the label
+      placeholder: Include label additional attributes to be set in the `awesome-list.yaml` file or a link to a related issue (issue to have a new label created). 
+    validations:
+      required: false       
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com). 
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
