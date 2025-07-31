@@ -138,12 +138,16 @@ items:
     link_id: https://www.oprc.online/
     description: Ontario Performance Rally Championship
     category: events-ontario-regional
+ ## Ontario events
   - link_id: https://www.kwrc.on.ca/kw_events/gcfr-voyageurs-oprc/
     name: Rally of the Voyageurs
     category: events-ontario-regional
   - link_id: https://www.mlrc.ca/blackbear/
     name: Black Bear Rally
     category: events-ontario-regional 
+  - link_id: https://www.mlrc.ca/rallysprint/
+    name: MLRC RallySprint Series
+    category: events-ontario-regional     
 ## Quebec Regional Rallies 
   - link_id: https://www.rallyecharlevoix.com/
     name: Rallye de Charlevoix
