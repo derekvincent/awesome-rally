@@ -2,7 +2,7 @@ config:
   list_title: Awesome List!
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
-  up_arrow_image: "https://raw.githubusercontent.com/derekvincent/awesome-list-template/main/assets/up-arrow.png"
+  up_arrow_image: "https://raw.githubusercontent.com/derekvincent/awesome-rally/main/assets/up-arrow.png"
 
 categories:
 
