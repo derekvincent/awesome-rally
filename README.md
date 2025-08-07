@@ -106,7 +106,7 @@ _Ontario Rally Clubs and Organizations_
 
 _Quebec Rally Clubs and Organizations_
 
-- <b><a href="http://www.casll.qc.ca/">Home | Canadian Rally Championship</a></b>  - The Canadian Rally Championship is Canada's top tier performance rally racing motorsport series, consisting of eight events held from coast to coast.
+- <b><a href="http://www.casll.qc.ca/">Club Auto Sport La Licorne</a></b>  - 
 - <b><a href="http://www.rallyebdc.com/">Club Rallye Auto de la Baie-des-Chaleurs (CRAB)</a></b>  - 
 - <b><a href="http://www.rallyeperceneige.com/">Club Rallye Perce-Neige Maniwaki</a></b>  - 
 - <b><a href="https://www.rallyecharlevoix.com/Le-club-CRDC">Club Rallye De Charlevoix  | RallyeCharlevoix.com</a></b>  - Club organisateur du Rallye de Charlevoix, membre de CARS et RSQ.
