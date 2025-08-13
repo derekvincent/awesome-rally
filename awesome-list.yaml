@@ -9,7 +9,7 @@ labels:
   - label: "cars" 
     name: "CARS"
     image: "https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png"
-    description: "Canadian Associtation of Rally Sport"
+    description: "Canadian Association of Rally Sport"
      
 categories:
   - name: canadian-rally
@@ -27,8 +27,8 @@ categories:
     description: United States Rally Sanctioning Bodies  
     parent: sanctioning-bodies     
   - name: events-canadian-national 
-    label: Canadain Rally Championship
-    description: Canadain National Rally Championship Events
+    label: Canadian Rally Championship
+    description: Canadian National Rally Championship Events
     parent: canadian-rally
   - name: canadian-rally-clubs
     label: Canadian Rally Clubs
@@ -52,11 +52,11 @@ categories:
     parent: canadian-rally-clubs 
   - name: pacific-rally-clubs
     label: Pacific Coast Rally Clubs
-    description: PAcific Coast Rally Clubs and Organizations    
+    description: Pacific Coast Rally Clubs and Organizations    
     parent: canadian-rally-clubs      
   - name: events-canadian-regional 
-    label: Canadain Regional Rally
-    description: Canadain Regional Championship
+    label: Canadian Regional Rally
+    description: Canadian Regional Championship
     parent: canadian-rally
   - name: events-ontario-regional 
     label: Ontario Regional Rallies
@@ -80,6 +80,10 @@ categories:
   - name: rally-resources
     label: Rally Resources
     description: Rally Resources and Information
+  - name: scoring-stats
+    label: Scoring and Statistics
+    description: some great websites for the rally scoring and statistics for different series, competitors and events
+    parent: rally-resources
   - name: rally-training
     label: Rally Training
     description: Rally Training and Schools
@@ -244,3 +248,13 @@ items:
   - link_id: https://gorally.com/
     name: The Firm - Rally School
     category: rally-training
+
+  - link_id: https://www.ewrc-results.com/
+    name: eWRC Results 
+    category: scoring-stats
+  - link_id: https://www.sneakattackrally.com/ARACombinerThing/index.html
+    name: Rally Combiner Thing 
+    category: scoring-stats
+  - link_id: https://www.rallyscoring.com/
+    name: Rally Scoring - results, services and software 
+    category: scoring-stats
