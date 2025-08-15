@@ -19,7 +19,7 @@ If you like to add or update items, feel free to open an [issue](https://github.
 
 - [Canadian Rally](#canadian-rally) 
     - [Canadian Sanctioning Bodies](#sanctioning-bodies-canada) _6 items_
-    - [Canadain Rally Championship](#events-canadian-national) _2 items_
+    - [Canadian Rally Championship](#events-canadian-national) _2 items_
     - [Canadian Rally Clubs](#canadian-rally-clubs) 
       - [Ontario Rally Clubs](#ontario-rally-clubs) _6 items_
       - [Quebec Rally Clubs](#quebec-rally-clubs) _6 items_
@@ -27,7 +27,7 @@ If you like to add or update items, feel free to open an [issue](https://github.
       - [Western Rally Clubs](#western-rally-clubs) _2 items_
       - [Pacific Coast Rally Clubs](#pacific-rally-clubs) _1 items_
 
-    - [Canadain Regional Rally](#events-canadian-regional) _2 items_
+    - [Canadian Regional Rally](#events-canadian-regional) _2 items_
       - [Ontario Regional Rallies](#events-ontario-regional) _4 items_
       - [Quebec Regional Rallies](#events-quebec-regional) _1 items_
       - [Atlantic Regional Rallies](#events-eastern-regional) _2 items_
@@ -40,6 +40,7 @@ If you like to add or update items, feel free to open an [issue](https://github.
     - [Canadian Rally Teams](#canadian-rally-teams) _1 items_
 
 - [Rally Resources](#rally-resources) 
+    - [Scoring and Statistics](#scoring-stats) _3 items_
     - [Rally Training](#rally-training) _4 items_
 
 - [Others](#other) 
@@ -47,7 +48,7 @@ If you like to add or update items, feel free to open an [issue](https://github.
 
 [legend]: #
 ## Legend
-- <img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" style="display:inline;" width="13" height="13">&nbsp; <b>CARS</b>  - Canadian Associtation of Rally Sport
+- <img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" style="display:inline;" width="13" height="13">&nbsp; <b>CARS</b>  - Canadian Association of Rally Sport
 
 [contents]: #
 
@@ -71,11 +72,11 @@ _Canadian Rally Sanctioning Bodies_
 - <b><a href="https://www.rallywest.com/">Rally Western Canada</a></b> <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
 - <b><a href="http://www.rallybc.com/">Rally Pacific Motorsports</a></b> <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
 
-### <a id='events-canadian-national'></a>Canadain Rally Championship
+### <a id='events-canadian-national'></a>Canadian Rally Championship
 
 <a href="#contents"><img align="right" width="16" height="16" src="https://raw.githubusercontent.com/derekvincent/awesome-rally/main/assets/up-arrow.png" alt="Back to top"></a>
 
-_Canadain National Rally Championship Events_
+_Canadian National Rally Championship Events_
 
 - <b><a href="https://carsrally.ca">Home | Canadian Rally Championship</a></b> <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - The Canadian Rally Championship is Canada's top tier performance rally racing motorsport series, consisting of eight events held from coast to coast.
 - <b><a href="https://www.tallpinesrally.com/">Rally of the Tall Pines</a></b> <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
@@ -135,15 +136,15 @@ _Western Rally Clubs and Organizations_
 
 <a href="#contents"><img align="right" width="16" height="16" src="https://raw.githubusercontent.com/derekvincent/awesome-rally/main/assets/up-arrow.png" alt="Back to top"></a>
 
-_PAcific Coast Rally Clubs and Organizations_
+_Pacific Coast Rally Clubs and Organizations_
 
 - <b><a href="https://www.rallybc.ca/wcra/wcra.html">West Coast Rally Association</a></b>  - 
 
-### <a id='events-canadian-regional'></a>Canadain Regional Rally
+### <a id='events-canadian-regional'></a>Canadian Regional Rally
 
 <a href="#contents"><img align="right" width="16" height="16" src="https://raw.githubusercontent.com/derekvincent/awesome-rally/main/assets/up-arrow.png" alt="Back to top"></a>
 
-_Canadain Regional Championship_
+_Canadian Regional Championship_
 
 - <b><a href="http://www.ecrc-crec.ca/">ECRC</a></b>  - Championnat des Rallyes de l'Est du Canada
 - <b><a href="https://www.wcrcrally.com/">WCRC</a></b>  - Western Canadian Rally Championship
@@ -219,6 +220,16 @@ _Canadian Rally Teams and Drivers_
 
 _Rally Resources and Information_
 
+
+### <a id='scoring-stats'></a>Scoring and Statistics
+
+<a href="#contents"><img align="right" width="16" height="16" src="https://raw.githubusercontent.com/derekvincent/awesome-rally/main/assets/up-arrow.png" alt="Back to top"></a>
+
+_some great websites for the rally scoring and statistics for different series, competitors and events_
+
+- <b><a href="https://www.ewrc-results.com/">eWRC Results</a></b>  - eWRC results rally WRC rallye
+- <b><a href="https://www.sneakattackrally.com/ARACombinerThing/index.html">Rally Combiner Thing</a></b>  - 
+- <b><a href="https://www.rallyscoring.com/">Rally Scoring - results, services and software</a></b>  - Website with live performance rally result and rally scoring service
 
 ### <a id='rally-training'></a>Rally Training
 
