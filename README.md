@@ -28,7 +28,7 @@ If you like to add or update items, feel free to open an [issue](https://github.
       - [Pacific Coast Rally Clubs](#pacific-rally-clubs) _1 items_
 
     - [Canadian Regional Rally](#events-canadian-regional) _2 items_
-      - [Ontario Regional Rallies](#events-ontario-regional) _4 items_
+      - [Ontario Regional Rallies](#events-ontario-regional) _3 items_
       - [Quebec Regional Rallies](#events-quebec-regional) _1 items_
       - [Atlantic Regional Rallies](#events-eastern-regional) _2 items_
 
@@ -40,7 +40,7 @@ If you like to add or update items, feel free to open an [issue](https://github.
     - [Canadian Rally Teams](#canadian-rally-teams) _1 items_
 
 - [Rally Resources](#rally-resources) 
-    - [Scoring and Statistics](#scoring-stats) _2 items_
+    - [Scoring and Statistics](#scoring-stats) _3 items_
     - [Rally Training](#rally-training) _4 items_
 
 - [Others](#other) 
@@ -156,7 +156,6 @@ _Canadian Regional Championship_
 _Regional Rallies_
 
 - <b><a href="https://www.oprc.online/">OPRC</a></b>  - Ontario Performance Rally Championship
-- <b><a href="https://www.kwrc.on.ca/kw_events/gcfr-voyageurs-oprc/">Rally of the Voyageurs</a></b>  - 
 - <b><a href="https://www.mlrc.ca/blackbear/">Black Bear Rally</a></b>  - 
 - <b><a href="https://www.mlrc.ca/rallysprint/">MLRC RallySprint Series</a></b>  - 
 
@@ -227,8 +226,9 @@ _Rally Resources and Information_
 
 _some great websites for the rally scoring and statistics for different series, competitors and events_
 
+- <b><a href="https://www.ewrc-results.com/">eWRC Results</a></b>  - 
 - <b><a href="https://www.sneakattackrally.com/ARACombinerThing/index.html">Rally Combiner Thing</a></b>  - 
-- <b><a href="https://www.rallyscoring.com/">Rally Scoring - results, services and software</a></b>  - Website with live performance rally result and rally scoring service
+- <b><a href="https://www.rallyscoring.com/">Rally Scoring - results, services and software</a></b>  - 
 
 ### <a id='rally-training'></a>Rally Training
 
