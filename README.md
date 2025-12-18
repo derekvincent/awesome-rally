@@ -24,7 +24,7 @@ If you like to add or update items, feel free to open an [issue](https://github.
       - [Ontario Rally Clubs](#ontario-rally-clubs) _6 items_
       - [Quebec Rally Clubs](#quebec-rally-clubs) _6 items_
       - [Atlantic Rally Clubs](#eastern-rally-clubs) _2 items_
-      - [Western Rally Clubs](#western-rally-clubs) _1 items_
+      - [Western Rally Clubs](#western-rally-clubs) _2 items_
       - [Pacific Coast Rally Clubs](#pacific-rally-clubs) _1 items_
 
     - [Canadian Regional Rally](#events-canadian-regional) _2 items_
@@ -130,6 +130,7 @@ _Atlantic Rally Clubs and Organizations_
 _Western Rally Clubs and Organizations_
 
 - <b><a href="https://www.cscc.ab.ca">Calgary Sports Car Club</a></b>  - 
+- <b><a href="https://www.edmontonrallyclub.ca/">Edmonton Rally Club Rally Rallycross TSD Performance</a></b>  - We're a club of rally and Rallycross enthusiasts. We run events around Edmonton, Alberta for all skill levels. Events at Castrol, Roy's Lake and Bill's Field
 
 #### <a id='pacific-rally-clubs'></a>Pacific Coast Rally Clubs
 
