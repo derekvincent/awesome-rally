@@ -28,7 +28,7 @@ If you like to add or update items, feel free to open an [issue](https://github.
       - [Pacific Coast Rally Clubs](#pacific-rally-clubs) _1 items_
 
     - [Canadian Regional Rally](#events-canadian-regional) _2 items_
-      - [Ontario Regional Rallies](#events-ontario-regional) _3 items_
+      - [Ontario Regional Rallies](#events-ontario-regional) _4 items_
       - [Quebec Regional Rallies](#events-quebec-regional) _1 items_
       - [Atlantic Regional Rallies](#events-eastern-regional) _2 items_
 
@@ -156,6 +156,7 @@ _Canadian Regional Championship_
 _Regional Rallies_
 
 - <b><a href="https://www.oprc.online/">OPRC</a></b>  - Ontario Performance Rally Championship
+- <b><a href="https://www.kwrc.on.ca/kw_events/gcfr-voyageurs-oprc/">Rally of the Voyageurs</a></b>  - 
 - <b><a href="https://www.mlrc.ca/blackbear/">Black Bear Rally</a></b>  - 
 - <b><a href="https://www.mlrc.ca/rallysprint/">MLRC RallySprint Series</a></b>  - 
 
