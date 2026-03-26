@@ -40,7 +40,7 @@ If you like to add or update items, feel free to open an [issue](https://github.
     - [Canadian Rally Teams](#canadian-rally-teams) _1 items_
 
 - [Rally Resources](#rally-resources) 
-    - [Scoring and Statistics](#scoring-stats) _3 items_
+    - [Scoring and Statistics](#scoring-stats) _2 items_
     - [Rally Training](#rally-training) _4 items_
 
 - [Others](#other) 
@@ -227,7 +227,6 @@ _Rally Resources and Information_
 
 _some great websites for the rally scoring and statistics for different series, competitors and events_
 
-- <b><a href="https://www.ewrc-results.com/">eWRC Results</a></b>  - 
 - <b><a href="https://www.sneakattackrally.com/ARACombinerThing/index.html">Rally Combiner Thing</a></b>  - 
 - <b><a href="https://www.rallyscoring.com/">Rally Scoring - results, services and software</a></b>  - Website with live performance rally result and rally scoring service
 
