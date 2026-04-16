@@ -79,7 +79,7 @@ _Canadian Rally Sanctioning Bodies_
 _Canadian National Rally Championship Events_
 
 - <b><a href="https://carsrally.ca">Home | Canadian Rally Championship</a></b> <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - The Canadian Rally Championship is Canada's top tier performance rally racing motorsport series, consisting of eight events held from coast to coast.
-- <b><a href="https://www.tallpinesrally.com/">Rally of the Tall Pines</a></b> <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+- <b><a href="https://www.tallpinesrally.com/">Rally of the Tall Pines</a></b> <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
 
 ### <a id='canadian-rally-clubs'></a>Canadian Rally Clubs
 
