@@ -23,7 +23,7 @@ If you like to add or update items, feel free to open an [issue](https://github.
     - [Canadian Rally Clubs](#canadian-rally-clubs) 
       - [Ontario Rally Clubs](#ontario-rally-clubs) _6 items_
       - [Quebec Rally Clubs](#quebec-rally-clubs) _6 items_
-      - [Atlantic Rally Clubs](#eastern-rally-clubs) _2 items_
+      - [Atlantic Rally Clubs](#eastern-rally-clubs) _1 items_
       - [Western Rally Clubs](#western-rally-clubs) _2 items_
       - [Pacific Coast Rally Clubs](#pacific-rally-clubs) _1 items_
 
@@ -121,7 +121,6 @@ _Quebec Rally Clubs and Organizations_
 _Atlantic Rally Clubs and Organizations_
 
 - <b><a href="https://www.bluenoseautosport.ca/">Bluenose Motorsport Club</a></b>  - 
-- <b><a href="https://mmsc.ca/">Moncton Motorsport Club</a></b>  - 
 
 #### <a id='western-rally-clubs'></a>Western Rally Clubs
 
