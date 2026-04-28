@@ -4,7 +4,8 @@ config:
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
   up_arrow_image: "https://raw.githubusercontent.com/derekvincent/awesome-rally/main/assets/up-arrow.png"
-
+  html_enable: true
+  
 labels:
   - label: "cars" 
     name: "CARS"
@@ -159,7 +160,7 @@ items:
   - link_id: https://rallyedesanair.ca/
     name: Rallye de Sanair
     category: events-quebec-regional
-## Easrtern Canada Regional Rallies
+## Eastern Canada Regional Rallies
   - link_id: https://www.bluenoseautosport.ca/ledwidge-lookoff-rally/
     name: Ledgwidge Lookoff Rally
     category: events-eastern-regional
