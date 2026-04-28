@@ -17,33 +17,48 @@ If you like to add or update items, feel free to open an [issue](https://github.
 [categories]: #
 ## Contents
 
-- [Canadian Rally](#canadian-rally) 
+- [Canadian Rally](#canadian-rally) _0 items_
     - [Canadian Sanctioning Bodies](#sanctioning-bodies-canada) _6 items_
+
     - [Canadian Rally Championship](#events-canadian-national) _2 items_
-    - [Canadian Rally Clubs](#canadian-rally-clubs) 
-      - [Ontario Rally Clubs](#ontario-rally-clubs) _6 items_
+
+    - [Canadian Rally Clubs](#canadian-rally-clubs) _0 items_
+      - [Ontario Rally Clubs](#ontario-rally-clubs) _8 items_
+
       - [Quebec Rally Clubs](#quebec-rally-clubs) _6 items_
-      - [Atlantic Rally Clubs](#eastern-rally-clubs) _1 items_
+
+      - [Atlantic Rally Clubs](#eastern-rally-clubs) _2 items_
+
       - [Western Rally Clubs](#western-rally-clubs) _2 items_
+
       - [Pacific Coast Rally Clubs](#pacific-rally-clubs) _1 items_
+
 
     - [Canadian Regional Rally](#events-canadian-regional) _2 items_
       - [Ontario Regional Rallies](#events-ontario-regional) _4 items_
-      - [Quebec Regional Rallies](#events-quebec-regional) _1 items_
+
+      - [Quebec Regional Rallies](#events-quebec-regional) _2 items_
+
       - [Atlantic Regional Rallies](#events-eastern-regional) _2 items_
 
 
-- [Sanctioning Bodies](#sanctioning-bodies) 
+
+- [Sanctioning Bodies](#sanctioning-bodies) _0 items_
     - [United States Sanctioning Bodies](#sanctioning-bodies-us) _2 items_
 
-- [Rally Teams](#rally-teams) 
+
+- [Rally Teams](#rally-teams) _0 items_
     - [Canadian Rally Teams](#canadian-rally-teams) _1 items_
 
-- [Rally Resources](#rally-resources) 
-    - [Scoring and Statistics](#scoring-stats) _2 items_
+
+- [Rally Resources](#rally-resources) _0 items_
+    - [Scoring and Statistics](#scoring-stats) _3 items_
+
     - [Rally Training](#rally-training) _4 items_
 
-- [Others](#other) 
+
+- [Others](#other) _0 items_
+
 
 
 [legend]: #
@@ -65,12 +80,12 @@ _Canadian Rally Resources_
 
 _Canadian Rally Sanctioning Bodies_
 
-- <b><a href="https://carsrally.ca/cars-home/">CARS Home | CarsRally</a></b> <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
-- <b><a href="https://rallysport.on.ca/">Rallysport Ontario</a></b> <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
-- <b><a href="https://rsq.qc.ca/">Rallye Sport Quebec</a></b> <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
-- <b><a href="https://www.armsinc.ca/rally/">Atlantic Region Motor Sports</a></b> <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
-- <b><a href="https://www.rallywest.com/">Rally Western Canada</a></b> <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
-- <b><a href="http://www.rallybc.com/">Rally Pacific Motorsports</a></b> <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
+- **[CARS Home | CarsRally](https://carsrally.ca/cars-home/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
+- **[Rallysport Ontario](https://rallysport.on.ca/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
+- **[Rallye Sport Quebec](https://rsq.qc.ca/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
+- **[Atlantic Region Motor Sports](https://www.armsinc.ca/rally/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
+- **[Rally Western Canada](https://www.rallywest.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
+- **[Rally Pacific Motorsports](http://www.rallybc.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
 
 ### <a id='events-canadian-national'></a>Canadian Rally Championship
 
@@ -78,8 +93,8 @@ _Canadian Rally Sanctioning Bodies_
 
 _Canadian National Rally Championship Events_
 
-- <b><a href="https://carsrally.ca">Home | Canadian Rally Championship</a></b> <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - The Canadian Rally Championship is Canada's top tier performance rally racing motorsport series, consisting of eight events held from coast to coast.
-- <b><a href="https://www.tallpinesrally.com/">Rally of the Tall Pines</a></b> <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
+- **[Home | Canadian Rally Championship](https://carsrally.ca)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - The Canadian Rally Championship is Canada's top tier performance rally racing motorsport series, consisting of eight events held from coast to coast.
+- **[Rally of the Tall Pines](https://www.tallpinesrally.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
 
 ### <a id='canadian-rally-clubs'></a>Canadian Rally Clubs
 
@@ -94,12 +109,14 @@ _Canadian Rally Clubs and Organizations_
 
 _Ontario Rally Clubs and Organizations_
 
-- <b><a href="https://www.mlrc.ca/">Maple Leaf Rally Club</a></b>  - The Maple Leaf Rally Club is one of the largest, oldest, and most active rally clubs in Canada.
-- <b><a href="https://www.kwrc.on.ca/">Kitchener Waterloo Rally Club</a></b>  - 
-- <b><a href="https://ottawasportscarclub.ca/">Ottawa Sports Car Club</a></b>  - 
-- <b><a href="https://www.mco.org/wordpress/">Motorsport Club of Ottawa</a></b>  - 
-- <b><a href="https://www.pmsc.on.ca/">Peterborough Motor Sports Club</a></b>  - 
-- <b><a href="https://www.torontoautosportclub.ca/">Toronto Autosport Club</a></b>  - 
+- **[Maple Leaf Rally Club](https://www.mlrc.ca/)**  - The Maple Leaf Rally Club is one of the largest, oldest, and most active rally clubs in Canada.
+- **[Kitchener Waterloo Rally Club](https://www.kwrc.on.ca/)**  - 
+- **[Ottawa Sports Car Club](https://ottawasportscarclub.ca/)**  - 
+- **[Motorsport Club of Ottawa](https://www.mco.org/wordpress/)**  - 
+- **[Peterborough Motor Sports Club](https://www.pmsc.on.ca/)**  - 
+- **[Toronto Autosport Club](https://www.torontoautosportclub.ca/)**  - 
+- **[Southern Ontario Performance Drivers Association](https://spda-online.ca/)**  - 
+- **[St. Lawrence Automobile Club](https://www.stlac.ca)**  - 
 
 #### <a id='quebec-rally-clubs'></a>Quebec Rally Clubs
 
@@ -107,12 +124,12 @@ _Ontario Rally Clubs and Organizations_
 
 _Quebec Rally Clubs and Organizations_
 
-- <b><a href="http://www.casll.qc.ca/">Club Auto Sport La Licorne</a></b>  - 
-- <b><a href="http://www.rallyebdc.com/">Club Rallye Auto de la Baie-des-Chaleurs (CRAB)</a></b>  - 
-- <b><a href="http://www.rallyeperceneige.com/">Club Rallye Perce-Neige Maniwaki</a></b>  - 
-- <b><a href="https://www.rallyecharlevoix.com/Le-club-CRDC">Club Rallye De Charlevoix  | RallyeCharlevoix.com</a></b>  - Club organisateur du Rallye de Charlevoix, membre de CARS et RSQ.
-- <b><a href="https://www.facebook.com/clubrallyerimouski">Club Rallye Rimouski</a></b>  - 
-- <b><a href="https://www.facebook.com/CADORallye/">Club Auto de Rallye de l'Outaouais (CARO)</a></b>  - 
+- **[Club Auto Sport La Licorne](http://www.casll.qc.ca/)**  - 
+- **[Rallye Baie-des-Chaleurs | 26 au 28 juin 2026](http://www.rallyebdc.com/)**  - Vivez l’intensité du Rallye Baie-des-Chaleurs en Gaspésie. Un spectacle de course automobile impressionnant sur routes de gravier, accessible à tous, avec une ambiance conviviale à découvrir sur place.
+- **[Club Rallye Perce-Neige Maniwaki](http://www.rallyeperceneige.com/)**  - 
+- **[Club Rallye De Charlevoix  | RallyeCharlevoix.com](https://www.rallyecharlevoix.com/Le-club-CRDC)**  - Club organisateur du Rallye de Charlevoix, membre de CARS et RSQ.
+- **[Club Rallye Rimouski](https://www.facebook.com/clubrallyerimouski)**  - 
+- **[Club Auto de Rallye de l'Outaouais (CARO)](https://www.facebook.com/CADORallye/)**  - 
 
 #### <a id='eastern-rally-clubs'></a>Atlantic Rally Clubs
 
@@ -120,7 +137,8 @@ _Quebec Rally Clubs and Organizations_
 
 _Atlantic Rally Clubs and Organizations_
 
-- <b><a href="https://www.bluenoseautosport.ca/">Bluenose Motorsport Club</a></b>  - 
+- **[Bluenose Motorsport Club](https://www.bluenoseautosport.ca/)**  - 
+- **[Moncton Motorsport Club](https://mmsc.ca/)**  - 
 
 #### <a id='western-rally-clubs'></a>Western Rally Clubs
 
@@ -128,8 +146,8 @@ _Atlantic Rally Clubs and Organizations_
 
 _Western Rally Clubs and Organizations_
 
-- <b><a href="https://www.cscc.ab.ca">Calgary Sports Car Club</a></b>  - 
-- <b><a href="https://www.edmontonrallyclub.ca/">Edmonton Rally Club Rally Rallycross TSD Performance</a></b>  - We're a club of rally and Rallycross enthusiasts. We run events around Edmonton, Alberta for all skill levels. Events at Castrol, Roy's Lake and Bill's Field
+- **[Calgary Sports Car Club](https://www.cscc.ab.ca)**  - 
+- **[Edmonton Rally Club Rally Rallycross TSD Performance](https://www.edmontonrallyclub.ca/)**  - We're a club of rally and Rallycross enthusiasts. We run events around Edmonton, Alberta for all skill levels. Events at Castrol, Roy's Lake and Bill's Field
 
 #### <a id='pacific-rally-clubs'></a>Pacific Coast Rally Clubs
 
@@ -137,7 +155,7 @@ _Western Rally Clubs and Organizations_
 
 _Pacific Coast Rally Clubs and Organizations_
 
-- <b><a href="https://www.rallybc.ca/wcra/wcra.html">West Coast Rally Association</a></b>  - 
+- **[West Coast Rally Association](https://www.rallybc.ca/wcra/wcra.html)**  - 
 
 ### <a id='events-canadian-regional'></a>Canadian Regional Rally
 
@@ -145,8 +163,8 @@ _Pacific Coast Rally Clubs and Organizations_
 
 _Canadian Regional Championship_
 
-- <b><a href="http://www.ecrc-crec.ca/">ECRC</a></b>  - Championnat des Rallyes de l'Est du Canada
-- <b><a href="https://www.wcrcrally.com/">WCRC</a></b>  - Western Canadian Rally Championship
+- **[ECRC](http://www.ecrc-crec.ca/)**  - Championnat des Rallyes de l'Est du Canada
+- **[WCRC](https://www.wcrcrally.com/)**  - Western Canadian Rally Championship
 
 #### <a id='events-ontario-regional'></a>Ontario Regional Rallies
 
@@ -154,10 +172,10 @@ _Canadian Regional Championship_
 
 _Regional Rallies_
 
-- <b><a href="https://www.oprc.online/">OPRC</a></b>  - Ontario Performance Rally Championship
-- <b><a href="https://www.kwrc.on.ca/kw_events/gcfr-voyageurs-oprc/">Rally of the Voyageurs</a></b>  - 
-- <b><a href="https://www.mlrc.ca/blackbear/">Black Bear Rally</a></b>  - 
-- <b><a href="https://www.mlrc.ca/rallysprint/">MLRC RallySprint Series</a></b>  - 
+- **[OPRC](https://www.oprc.online/)**  - Ontario Performance Rally Championship
+- **[Rally of the Voyageurs](https://www.kwrc.on.ca/kw_events/gcfr-voyageurs-oprc/)**  - 
+- **[Black Bear Rally](https://www.mlrc.ca/blackbear/)**  - 
+- **[MLRC RallySprint Series](https://www.mlrc.ca/rallysprint/)**  - 
 
 #### <a id='events-quebec-regional'></a>Quebec Regional Rallies
 
@@ -165,7 +183,8 @@ _Regional Rallies_
 
 _Regional Rallies_
 
-- <b><a href="https://www.rallyecharlevoix.com/">Bienvenue sur le site officiel du Rallye de Charlevoix | RallyeCharlevoix.com</a></b>  - Le Rallye de Charlevoix est reconnu à travers le continent comme l'une des plus remarquables compétitions de rallye de performance...
+- **[Bienvenue sur le site officiel du Rallye de Charlevoix | RallyeCharlevoix.com](https://www.rallyecharlevoix.com/)**  - Le Rallye de Charlevoix est reconnu à travers le continent comme l'une des plus remarquables compétitions de rallye de performance...
+- **[Rallye de Sanair](https://rallyedesanair.ca/)**  - 
 
 #### <a id='events-eastern-regional'></a>Atlantic Regional Rallies
 
@@ -173,8 +192,8 @@ _Regional Rallies_
 
 _Regional Rallies_
 
-- <b><a href="https://www.bluenoseautosport.ca/ledwidge-lookoff-rally/">Ledgwidge Lookoff Rally</a></b>  - 
-- <b><a href="https://www.bluenoseautosport.ca/trout-lake-rally/">Trout Lake Rally</a></b>  - 
+- **[Ledgwidge Lookoff Rally](https://www.bluenoseautosport.ca/ledwidge-lookoff-rally/)**  - 
+- **[Trout Lake Rally](https://www.bluenoseautosport.ca/trout-lake-rally/)**  - 
 
 ---
 
@@ -191,8 +210,8 @@ _Official Rally Sanctioning Bodies_
 
 _United States Rally Sanctioning Bodies_
 
-- <b><a href="https://www.americanrallyassociation.org/">American Rally Association</a></b>  - 
-- <b><a href="https://nasarallysport.com">NASA Rally Sport</a></b>  - 
+- **[American Rally Association](https://www.americanrallyassociation.org/)**  - 
+- **[NASA Rally Sport](https://nasarallysport.com)**  - 
 
 ---
 
@@ -209,7 +228,7 @@ _Rally Teams and Drivers_
 
 _Canadian Rally Teams and Drivers_
 
-- <b><a href="https://www.rallysputnik.com/">Rally Sputnik</a></b>  - Rally Sputnik ...Zip ties and blissful ignorance
+- **[Rally Sputnik](https://www.rallysputnik.com/)**  - Rally Sputnik ...Zip ties and blissful ignorance
 
 ---
 
@@ -226,8 +245,9 @@ _Rally Resources and Information_
 
 _some great websites for the rally scoring and statistics for different series, competitors and events_
 
-- <b><a href="https://www.sneakattackrally.com/ARACombinerThing/index.html">Rally Combiner Thing</a></b>  - 
-- <b><a href="https://www.rallyscoring.com/">Rally Scoring - results, services and software</a></b>  - Website with live performance rally result and rally scoring service
+- **[eWRC Results](https://www.ewrc-results.com/)**  - 
+- **[Rally Combiner Thing](https://www.sneakattackrally.com/ARACombinerThing/index.html)**  - 
+- **[Rally Scoring - results, services and software](https://www.rallyscoring.com/)**  - Website with live performance rally result and rally scoring service
 
 ### <a id='rally-training'></a>Rally Training
 
@@ -235,10 +255,10 @@ _some great websites for the rally scoring and statistics for different series, 
 
 _Rally Training and Schools_
 
-- <b><a href="https://racelab.co/">Race Lab - Ontario Rally School</a></b>  - 
-- <b><a href="https://teamoneil.com/">Team O'Neil Rally School</a></b>  - 
-- <b><a href="https://drive.dirtfish.com/drive/drive-now/">DirtFish Rally School</a></b>  - 
-- <b><a href="https://gorally.com/">The Firm - Rally School</a></b>  - 
+- **[Race Lab - Ontario Rally School](https://racelab.co/)**  - 
+- **[Team O'Neil Rally School](https://teamoneil.com/)**  - 
+- **[DirtFish Rally School](https://drive.dirtfish.com/drive/drive-now/)**  - 
+- **[The Firm - Rally School](https://gorally.com/)**  - 
 
 ---
 
