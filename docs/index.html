@@ -1,0 +1,779 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome Rally Resources!</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link href="css/base.css" rel="stylesheet">
+        <script>
+            // Prevent FOUC by setting theme early before DOM loads
+            const savedTheme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-bs-theme', savedTheme);
+        </script>    
+</head>
+<body data-bs-spy="scroll" data-bs-target="#toc-nav" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" tabindex="0" class="position-relative">
+        
+
+        <!-- Floating Show Sidebar Button -->
+        <button id="show-sidebar-btn" class="btn btn-primary position-fixed top-50 start-0 translate-middle-y d-none shadow-sm" style="border-top-left-radius: 0; border-bottom-left-radius: 0; z-index: 1050; padding-left: 0.5rem; padding-right: 0.75rem;" title="Show Table of Contents">
+            <i class="fa-solid fa-angles-right"></i>
+        </button>
+
+        <div class="container my-5">
+            <div class="row">
+                <!-- Sidebar / TOC -->
+                <aside id="sidebar" class="col-md-4 col-lg-3 mb-4">
+                    <div class="sticky-top" style="top: 2rem; z-index: 1000;">
+                        <!-- Mobile Toggle Button -->
+<div class="d-md-none mb-3 d-flex gap-2">
+    <button class="btn btn-primary w-100 d-flex justify-content-between align-items-center" type="button" data-bs-toggle="collapse" data-bs-target="#toc-collapse" aria-expanded="false" aria-controls="toc-collapse">
+        <span><i class="fa-solid fa-list me-2"></i> Table of Contents</span>
+        <i class="fa-solid fa-chevron-down"></i>
+    </button>
+    <button class="btn btn-outline-secondary theme-toggle" type="button" title="Toggle Dark Mode">
+        <i class="fa-solid fa-moon"></i>
+    </button>
+</div>
+
+<nav id="toc-collapse" class="collapse d-md-block card bg-body-tertiary border-0 shadow-sm p-3 rounded overflow-y-auto" style="max-height: calc(100vh - 4rem);">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h5 class="d-none d-md-block text-uppercase text-muted fs-6 fw-bold mb-0">Contents</h5>
+        <div class="d-flex gap-2">
+            <button id="hide-sidebar-btn" class="btn btn-sm btn-outline-secondary d-none d-md-block" type="button" title="Collapse Sidebar">
+                <i class="fa-solid fa-angles-left"></i>
+            </button>
+            <button class="btn btn-sm btn-outline-secondary d-none d-md-block theme-toggle" type="button" title="Toggle Dark Mode">
+                <i class="fa-solid fa-moon"></i>
+            </button>
+        </div>
+    </div>
+    
+    <div class="mb-3">
+        <input type="search" id="search-input" class="form-control form-control-sm" placeholder="Search resources...">
+    </div>
+
+    
+
+    <ul id="toc-nav" class="nav nav-pills flex-column">
+            
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#top">Awesome Rally Resources!</a>
+                <ul class="nav nav-pills flex-column ms-3 border-start ps-2 mt-1">
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#canadian-rally">Canadian Rally</a>
+                <ul class="nav nav-pills flex-column ms-3 border-start ps-2 mt-1">
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#sanctioning-bodies-canada">Canadian Sanctioning Bodies</a>
+        </li>
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#events-canadian-national">Canadian Rally Championship</a>
+        </li>
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#canadian-rally-clubs">Canadian Rally Clubs</a>
+                <ul class="nav nav-pills flex-column ms-3 border-start ps-2 mt-1">
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#ontario-rally-clubs">Ontario Rally Clubs</a>
+        </li>
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#quebec-rally-clubs">Quebec Rally Clubs</a>
+        </li>
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#eastern-rally-clubs">Atlantic Rally Clubs</a>
+        </li>
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#western-rally-clubs">Western Rally Clubs</a>
+        </li>
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#pacific-rally-clubs">Pacific Coast Rally Clubs</a>
+        </li>
+                </ul>
+        </li>
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#events-canadian-regional">Canadian Regional Rally</a>
+                <ul class="nav nav-pills flex-column ms-3 border-start ps-2 mt-1">
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#events-ontario-regional">Ontario Regional Rallies</a>
+        </li>
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#events-quebec-regional">Quebec Regional Rallies</a>
+        </li>
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#events-eastern-regional">Atlantic Regional Rallies</a>
+        </li>
+                </ul>
+        </li>
+                </ul>
+        </li>
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#sanctioning-bodies">Sanctioning Bodies</a>
+                <ul class="nav nav-pills flex-column ms-3 border-start ps-2 mt-1">
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#sanctioning-bodies-us">United States Sanctioning Bodies</a>
+        </li>
+                </ul>
+        </li>
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#rally-teams">Rally Teams</a>
+                <ul class="nav nav-pills flex-column ms-3 border-start ps-2 mt-1">
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#canadian-rally-teams">Canadian Rally Teams</a>
+        </li>
+                </ul>
+        </li>
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#rally-resources">Rally Resources</a>
+                <ul class="nav nav-pills flex-column ms-3 border-start ps-2 mt-1">
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#scoring-stats">Scoring and Statistics</a>
+        </li>
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#rally-news">Rally News and Media</a>
+        </li>
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#rally-training">Rally Training</a>
+        </li>
+                </ul>
+        </li>
+        <li class="nav-item mb-1 w-100">
+            <a class="nav-link py-1 px-2" href="#other">Others</a>
+        </li>
+                </ul>
+        </li>
+    </ul>
+</nav>
+                    </div>
+                </aside>
+                <!-- Main Content -->
+                <main id="main-content" class="col-md-8 col-lg-9">
+                        <header id="top" class="mb-5 border-bottom pb-3">
+                            <h1 align="center">
+    Awesome Rally Resources!
+    <br>
+</h1>
+
+<p align="center">
+    <a href="https://awesome.re" title="Awesome"><img src="https://awesome.re/badge.svg"></a>
+</p>
+
+<p>A curated list of Canadian Rally Resources, Clubs, Teams, and Events</p>
+
+<p>If you like to add or update items, feel free to open an <a href="https://github.com/derekvincent/awsome-list-template/issues/new/choose">issue</a>, submit a <a href="https://github.com/derekvincent/awsome-list-template/pulls">pull request</a>, or directly edit the <a href="https://github.com/derekvincent/awsome-list-template/edit/main/projects.yaml">projects.yaml</a>. Contributions are very welcome!</p>
+                        </header>
+                        
+                            
+        
+            
+            
+            <section class="category-block">
+            <h2 id="canadian-rally" class="mt-4 pt-3 category-header">
+                Canadian Rally <a href="#canadian-rally" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h2>
+                <p class="text-secondary">Canadian Rally Resources</p>
+            <ul class="mb-4">
+            </ul>
+                <div class="ms-4">
+                        
+        
+            
+            
+            <section class="category-block">
+            <h3 id="sanctioning-bodies-canada" class="mt-4 pt-3 category-header">
+                Canadian Sanctioning Bodies <a href="#sanctioning-bodies-canada" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h3>
+                <p class="text-secondary">Canadian Rally Sanctioning Bodies</p>
+            <ul class="mb-4"> 
+                    <li class="mb-2">
+                        <a href="https://carsrally.ca/cars-home/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">CARS Home | CarsRally</a>
+                                        <img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" title="CARS" width="16" height="16" class="label-icon ms-1 align-middle">
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://rallysport.on.ca/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Rallysport Ontario</a>
+                                        <img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" title="CARS" width="16" height="16" class="label-icon ms-1 align-middle">
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://rsq.qc.ca/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Rallye Sport Quebec</a>
+                                        <img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" title="CARS" width="16" height="16" class="label-icon ms-1 align-middle">
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.armsinc.ca/rally/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Atlantic Region Motor Sports</a>
+                                        <img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" title="CARS" width="16" height="16" class="label-icon ms-1 align-middle">
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.rallywest.com/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Rally Western Canada</a>
+                                        <img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" title="CARS" width="16" height="16" class="label-icon ms-1 align-middle">
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="http://www.rallybc.com/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Rally Pacific Motorsports</a>
+                                        <img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" title="CARS" width="16" height="16" class="label-icon ms-1 align-middle">
+                        
+                    </li>
+            </ul>
+            </section>
+                        
+        
+            
+            
+            <section class="category-block">
+            <h3 id="events-canadian-national" class="mt-4 pt-3 category-header">
+                Canadian Rally Championship <a href="#events-canadian-national" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h3>
+                <p class="text-secondary">Canadian National Rally Championship Events</p>
+            <ul class="mb-4"> 
+                    <li class="mb-2">
+                        <a href="https://carsrally.ca" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Home | Canadian Rally Championship</a>
+                                        <img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" title="CARS" width="16" height="16" class="label-icon ms-1 align-middle">
+                        <span class="text-body"> - The Canadian Rally Championship is Canada's top tier performance rally racing motorsport series, consisting of eight events held from coast to coast.</span>
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.tallpinesrally.com/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Rally of the Tall Pines</a>
+                                        <img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" title="CARS" width="16" height="16" class="label-icon ms-1 align-middle">
+                        
+                    </li>
+            </ul>
+            </section>
+                        
+        
+            
+            
+            <section class="category-block">
+            <h3 id="canadian-rally-clubs" class="mt-4 pt-3 category-header">
+                Canadian Rally Clubs <a href="#canadian-rally-clubs" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h3>
+                <p class="text-secondary">Canadian Rally Clubs and Organizations</p>
+            <ul class="mb-4">
+            </ul>
+                <div class="ms-4">
+                        
+        
+            
+            
+            <section class="category-block">
+            <h4 id="ontario-rally-clubs" class="mt-4 pt-3 category-header">
+                Ontario Rally Clubs <a href="#ontario-rally-clubs" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h4>
+                <p class="text-secondary">Ontario Rally Clubs and Organizations</p>
+            <ul class="mb-4"> 
+                    <li class="mb-2">
+                        <a href="https://www.mlrc.ca/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Maple Leaf Rally Club</a>
+                        <span class="text-body"> - The Maple Leaf Rally Club is one of the largest, oldest, and most active rally clubs in Canada.</span>
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.kwrc.on.ca/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Kitchener Waterloo Rally Club</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://ottawasportscarclub.ca/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Ottawa Sports Car Club</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.mco.org/wordpress/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Motorsport Club of Ottawa</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.pmsc.on.ca/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Peterborough Motor Sports Club</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.torontoautosportclub.ca/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Toronto Autosport Club</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://spda-online.ca/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Southern Ontario Performance Drivers Association</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.stlac.ca" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">St. Lawrence Automobile Club</a>
+                        
+                    </li>
+            </ul>
+            </section>
+                        
+        
+            
+            
+            <section class="category-block">
+            <h4 id="quebec-rally-clubs" class="mt-4 pt-3 category-header">
+                Quebec Rally Clubs <a href="#quebec-rally-clubs" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h4>
+                <p class="text-secondary">Quebec Rally Clubs and Organizations</p>
+            <ul class="mb-4"> 
+                    <li class="mb-2">
+                        <a href="http://www.casll.qc.ca/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Club Auto Sport La Licorne</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="http://www.rallyebdc.com/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Rallye Baie-des-Chaleurs | 26 au 28 juin 2026</a>
+                        <span class="text-body"> - Vivez l’intensité du Rallye Baie-des-Chaleurs en Gaspésie. Un spectacle de course automobile impressionnant sur routes de gravier, accessible à tous, avec une ambiance conviviale à découvrir sur place.</span>
+                    </li> 
+                    <li class="mb-2">
+                        <a href="http://www.rallyeperceneige.com/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Club Rallye Perce-Neige Maniwaki</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.rallyecharlevoix.com/Le-club-CRDC" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Club Rallye De Charlevoix  | RallyeCharlevoix.com</a>
+                        <span class="text-body"> - Club organisateur du Rallye de Charlevoix, membre de CARS et RSQ.</span>
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.facebook.com/clubrallyerimouski" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Club Rallye Rimouski</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.facebook.com/CADORallye/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Club Auto de Rallye de l'Outaouais (CARO)</a>
+                        
+                    </li>
+            </ul>
+            </section>
+                        
+        
+            
+            
+            <section class="category-block">
+            <h4 id="eastern-rally-clubs" class="mt-4 pt-3 category-header">
+                Atlantic Rally Clubs <a href="#eastern-rally-clubs" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h4>
+                <p class="text-secondary">Atlantic Rally Clubs and Organizations</p>
+            <ul class="mb-4"> 
+                    <li class="mb-2">
+                        <a href="https://www.bluenoseautosport.ca/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Bluenose Motorsport Club</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://mmsc.ca/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Moncton Motorsport Club</a>
+                        
+                    </li>
+            </ul>
+            </section>
+                        
+        
+            
+            
+            <section class="category-block">
+            <h4 id="western-rally-clubs" class="mt-4 pt-3 category-header">
+                Western Rally Clubs <a href="#western-rally-clubs" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h4>
+                <p class="text-secondary">Western Rally Clubs and Organizations</p>
+            <ul class="mb-4"> 
+                    <li class="mb-2">
+                        <a href="https://www.cscc.ab.ca" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Calgary Sports Car Club</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.edmontonrallyclub.ca/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Edmonton Rally Club Rally Rallycross TSD Performance</a>
+                        <span class="text-body"> - We're a club of rally and Rallycross enthusiasts. We run events around Edmonton, Alberta for all skill levels. Events at Castrol, Roy's Lake and Bill's Field</span>
+                    </li>
+            </ul>
+            </section>
+                        
+        
+            
+            
+            <section class="category-block">
+            <h4 id="pacific-rally-clubs" class="mt-4 pt-3 category-header">
+                Pacific Coast Rally Clubs <a href="#pacific-rally-clubs" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h4>
+                <p class="text-secondary">Pacific Coast Rally Clubs and Organizations</p>
+            <ul class="mb-4"> 
+                    <li class="mb-2">
+                        <a href="https://www.rallybc.ca/wcra/wcra.html" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">West Coast Rally Association</a>
+                        
+                    </li>
+            </ul>
+            </section>
+                </div>
+            </section>
+                        
+        
+            
+            
+            <section class="category-block">
+            <h3 id="events-canadian-regional" class="mt-4 pt-3 category-header">
+                Canadian Regional Rally <a href="#events-canadian-regional" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h3>
+                <p class="text-secondary">Canadian Regional Championship</p>
+            <ul class="mb-4"> 
+                    <li class="mb-2">
+                        <a href="http://www.ecrc-crec.ca/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">ECRC</a>
+                        <span class="text-body"> - Championnat des Rallyes de l'Est du Canada</span>
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.wcrcrally.com/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">WCRC</a>
+                        <span class="text-body"> - Western Canadian Rally Championship</span>
+                    </li>
+            </ul>
+                <div class="ms-4">
+                        
+        
+            
+            
+            <section class="category-block">
+            <h4 id="events-ontario-regional" class="mt-4 pt-3 category-header">
+                Ontario Regional Rallies <a href="#events-ontario-regional" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h4>
+                <p class="text-secondary">Regional Rallies</p>
+            <ul class="mb-4"> 
+                    <li class="mb-2">
+                        <a href="https://www.oprc.online/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">OPRC</a>
+                        <span class="text-body"> - Ontario Performance Rally Championship</span>
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.kwrc.on.ca/kw_events/gcfr-voyageurs-oprc/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Rally of the Voyageurs</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.mlrc.ca/blackbear/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Black Bear Rally</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.mlrc.ca/rallysprint/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">MLRC RallySprint Series</a>
+                        
+                    </li>
+            </ul>
+            </section>
+                        
+        
+            
+            
+            <section class="category-block">
+            <h4 id="events-quebec-regional" class="mt-4 pt-3 category-header">
+                Quebec Regional Rallies <a href="#events-quebec-regional" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h4>
+                <p class="text-secondary">Regional Rallies</p>
+            <ul class="mb-4"> 
+                    <li class="mb-2">
+                        <a href="https://www.rallyecharlevoix.com/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Bienvenue sur le site officiel du Rallye de Charlevoix | RallyeCharlevoix.com</a>
+                        <span class="text-body"> - Le Rallye de Charlevoix est reconnu à travers le continent comme l'une des plus remarquables compétitions de rallye de performance...</span>
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://rallyedesanair.ca/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Rallye de Sanair</a>
+                        
+                    </li>
+            </ul>
+            </section>
+                        
+        
+            
+            
+            <section class="category-block">
+            <h4 id="events-eastern-regional" class="mt-4 pt-3 category-header">
+                Atlantic Regional Rallies <a href="#events-eastern-regional" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h4>
+                <p class="text-secondary">Regional Rallies</p>
+            <ul class="mb-4"> 
+                    <li class="mb-2">
+                        <a href="https://www.bluenoseautosport.ca/ledwidge-lookoff-rally/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Ledgwidge Lookoff Rally</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.bluenoseautosport.ca/trout-lake-rally/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Trout Lake Rally</a>
+                        
+                    </li>
+            </ul>
+            </section>
+                </div>
+            </section>
+                </div>
+            </section>
+                            
+        
+            
+            
+            <section class="category-block">
+            <h2 id="sanctioning-bodies" class="mt-4 pt-3 category-header">
+                Sanctioning Bodies <a href="#sanctioning-bodies" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h2>
+                <p class="text-secondary">Official Rally Sanctioning Bodies</p>
+            <ul class="mb-4">
+            </ul>
+                <div class="ms-4">
+                        
+        
+            
+            
+            <section class="category-block">
+            <h3 id="sanctioning-bodies-us" class="mt-4 pt-3 category-header">
+                United States Sanctioning Bodies <a href="#sanctioning-bodies-us" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h3>
+                <p class="text-secondary">United States Rally Sanctioning Bodies</p>
+            <ul class="mb-4"> 
+                    <li class="mb-2">
+                        <a href="https://www.americanrallyassociation.org/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">American Rally Association</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://nasarallysport.com" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">NASA Rally Sport</a>
+                        
+                    </li>
+            </ul>
+            </section>
+                </div>
+            </section>
+                            
+        
+            
+            
+            <section class="category-block">
+            <h2 id="rally-teams" class="mt-4 pt-3 category-header">
+                Rally Teams <a href="#rally-teams" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h2>
+                <p class="text-secondary">Rally Teams and Drivers</p>
+            <ul class="mb-4">
+            </ul>
+                <div class="ms-4">
+                        
+        
+            
+            
+            <section class="category-block">
+            <h3 id="canadian-rally-teams" class="mt-4 pt-3 category-header">
+                Canadian Rally Teams <a href="#canadian-rally-teams" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h3>
+                <p class="text-secondary">Canadian Rally Teams and Drivers</p>
+            <ul class="mb-4"> 
+                    <li class="mb-2">
+                        <a href="https://www.rallysputnik.com/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Rally Sputnik</a>
+                        <span class="text-body"> - Rally Sputnik ...Zip ties and blissful ignorance</span>
+                    </li>
+            </ul>
+            </section>
+                </div>
+            </section>
+                            
+        
+            
+            
+            <section class="category-block">
+            <h2 id="rally-resources" class="mt-4 pt-3 category-header">
+                Rally Resources <a href="#rally-resources" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h2>
+                <p class="text-secondary">Rally Resources and Information</p>
+            <ul class="mb-4">
+            </ul>
+                <div class="ms-4">
+                        
+        
+            
+            
+            <section class="category-block">
+            <h3 id="scoring-stats" class="mt-4 pt-3 category-header">
+                Scoring and Statistics <a href="#scoring-stats" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h3>
+                <p class="text-secondary">some great websites for the rally scoring and statistics for different series, competitors and events</p>
+            <ul class="mb-4"> 
+                    <li class="mb-2">
+                        <a href="https://www.ewrc-results.com/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">eWRC Results</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.sneakattackrally.com/ARACombinerThing/index.html" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Rally Combiner Thing</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://www.rallyscoring.com/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Rally Scoring - results, services and software</a>
+                        <span class="text-body"> - Website with live performance rally result and rally scoring service</span>
+                    </li>
+            </ul>
+            </section>
+                        
+        
+            
+            
+            <section class="category-block">
+            <h3 id="rally-news" class="mt-4 pt-3 category-header">
+                Rally News and Media <a href="#rally-news" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h3>
+                <p class="text-secondary">All the Rally news needed</p>
+            <ul class="mb-4"> 
+                    <li class="mb-2">
+                        <a href="https://rallyracingnews.com/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Rally Racing News</a>
+                        
+                    </li>
+            </ul>
+            </section>
+                        
+        
+            
+            
+            <section class="category-block">
+            <h3 id="rally-training" class="mt-4 pt-3 category-header">
+                Rally Training <a href="#rally-training" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h3>
+                <p class="text-secondary">Rally Training and Schools</p>
+            <ul class="mb-4"> 
+                    <li class="mb-2">
+                        <a href="https://racelab.co/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Race Lab - Ontario Rally School</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://teamoneil.com/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">Team O'Neil Rally School</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://drive.dirtfish.com/drive/drive-now/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">DirtFish Rally School</a>
+                        
+                    </li> 
+                    <li class="mb-2">
+                        <a href="https://gorally.com/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">The Firm - Rally School</a>
+                        
+                    </li>
+            </ul>
+            </section>
+                </div>
+            </section>
+                            
+        
+            
+            
+            <section class="category-block">
+            <h2 id="other" class="mt-4 pt-3 category-header">
+                Others <a href="#other" class="text-muted text-decoration-none ms-1 header-anchor" aria-label="Link to this section"><i class="fa-solid fa-link" style="font-size: 0.7em;"></i></a>
+            </h2>
+            <ul class="mb-4">
+            </ul>
+            </section>   
+                </main>
+            </div>
+        </div>
+
+    <footer class="text-center py-4 bg-body-tertiary mt-5">
+        <h2>Related Resources</h2>
+
+<ul>
+<li><a href="https://awesome.re"><strong>Awesome list</strong></a>: Discover other Awesome lists on all kinds of topics.</li>
+<li><a href="https://awesomelists.top"><strong>Awesome seach</strong></a>: Search other Awedome lists!</li>
+</ul>
+
+<h2>Contribution</h2>
+
+<p>Awesome Lists are community driven and contributions are encouraged and welcome! If you like to add or update items on the list, choose one of the following ways:</p>
+
+<ul>
+<li>Open an issue by selecting one of the provided categories from the <a href="https://github.com/derekvincent/awesome-rally/issues/new/choose">issue page</a> and fill in the requested information.</li>
+<li>Modify the <a href="https://github.com/derekvincent/awesome-rally/blob/main/awesome-list.yaml">awesome-list.yaml</a> with your additions or changes, and submit a pull request. This can be done directly via the <a href="https://github.com/derekvincent/awesome-rally/edit/main/awesome-list.yaml">Github UI</a>.</li>
+</ul>
+
+<p>If you like to contribute to or share suggestions regarding the list metadata collection or markdown generation, please refer to the <a href="https://github.com/derekvincent/awesome-list-generator">awesome-list-generator</a> repository. If you like to create your own awesome list, we recommend to follow <a href="https://github.com/derekvincent/awesome-rally/blob/main/create-awesome-list.md">this guide</a>.</p>
+
+<p>For more information on how to add or update lists, please read the <a href="https://github.com/best-of-lists/best-of-template/blob/main/CONTRIBUTING.md">contribution guidelines</a>. By participating in this awesome list, you agree to abide by its <a href="https://github.com/derekvincent/awesome-rally/blob/main/.github/CODE_OF_CONDUCT.md">Code of Conduct</a>.</p>
+
+        <p class="mb-0 text-muted">&copy; 2024 Awesome List Generator</p>
+    </footer>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+        <script>
+            document.addEventListener('DOMContentLoaded', () => {
+                // 1. Theme Toggle Logic
+                const htmlElement = document.documentElement;
+                const themeToggles = document.querySelectorAll('.theme-toggle');
+                
+                const updateIcons = (theme) => {
+                    themeToggles.forEach(toggle => {
+                        const icon = toggle.querySelector('i');
+                        if (icon) {
+                            icon.className = theme === 'dark' ? 'fa-solid fa-sun' : 'fa-solid fa-moon';
+                        }
+                    });
+                };
+
+                updateIcons(htmlElement.getAttribute('data-bs-theme'));
+
+                themeToggles.forEach(toggle => {
+                    toggle.addEventListener('click', () => {
+                        const newTheme = htmlElement.getAttribute('data-bs-theme') === 'dark' ? 'light' : 'dark';
+                        htmlElement.setAttribute('data-bs-theme', newTheme);
+                        localStorage.setItem('theme', newTheme);
+                        updateIcons(newTheme);
+                    });
+                });
+
+                // 2. Auto-scroll TOC when ScrollSpy highlights a new section
+                const handleScrollSpy = () => {
+                    const tocContainer = document.querySelector('#toc-collapse');
+                    if (!tocContainer) return;
+                    
+                    const activeElements = tocContainer.querySelectorAll('.nav-link.active');
+                    if (!activeElements || activeElements.length === 0) return;
+                    
+                    const activeElement = activeElements[activeElements.length - 1];
+                    
+                    if (activeElement) {
+                        const containerRect = tocContainer.getBoundingClientRect();
+                        const activeRect = activeElement.getBoundingClientRect();
+                        const absoluteElementTop = tocContainer.scrollTop + (activeRect.top - containerRect.top);
+                        const targetScroll = absoluteElementTop - (containerRect.height / 2) + (activeRect.height / 2);
+                        
+                        tocContainer.scrollTo({ top: targetScroll, behavior: 'smooth' });
+                    }
+                };
+
+                window.addEventListener('activate.bs.scrollspy', handleScrollSpy);
+                document.body.addEventListener('activate.bs.scrollspy', handleScrollSpy);
+
+                // 3. Auto-close mobile TOC menu when a link is clicked
+                const tocCollapseElement = document.getElementById('toc-collapse');
+                if (tocCollapseElement) {
+                    tocCollapseElement.addEventListener('click', (e) => {
+                        if (e.target.tagName === 'A' && window.innerWidth < 768) {
+                            const bsCollapse = bootstrap.Collapse.getInstance(tocCollapseElement);
+                            if (bsCollapse) bsCollapse.hide();
+                        }
+                    });
+                }
+
+                // 4. Sidebar Toggle Logic for Desktop
+                const sidebar = document.getElementById('sidebar');
+                const mainContent = document.getElementById('main-content');
+                const hideSidebarBtn = document.getElementById('hide-sidebar-btn');
+                const showSidebarBtn = document.getElementById('show-sidebar-btn');
+
+                const hideSidebar = () => {
+                    if (sidebar && mainContent && showSidebarBtn) {
+                        sidebar.classList.add('d-none');
+                        mainContent.classList.remove('col-md-8', 'col-lg-9');
+                        mainContent.classList.add('col-12');
+                        showSidebarBtn.classList.remove('d-none');
+                        localStorage.setItem('sidebar-collapsed', 'true');
+                    }
+                };
+
+                const showSidebar = () => {
+                    if (sidebar && mainContent && showSidebarBtn) {
+                        sidebar.classList.remove('d-none');
+                        mainContent.classList.remove('col-12');
+                        mainContent.classList.add('col-md-8', 'col-lg-9');
+                        showSidebarBtn.classList.add('d-none');
+                        localStorage.setItem('sidebar-collapsed', 'false');
+                    }
+                };
+
+                if (localStorage.getItem('sidebar-collapsed') === 'true') hideSidebar();
+                if (hideSidebarBtn) hideSidebarBtn.addEventListener('click', hideSidebar);
+                if (showSidebarBtn) showSidebarBtn.addEventListener('click', showSidebar);
+
+                // 5. Client-side Search Filter
+                const searchInput = document.getElementById('search-input');
+                if (searchInput) {
+                    searchInput.addEventListener('input', (e) => {
+                        const term = e.target.value.toLowerCase();
+                        const listItems = document.querySelectorAll('#main-content li');
+                        listItems.forEach(li => {
+                            const text = li.textContent.toLowerCase();
+                            li.classList.toggle('d-none', !text.includes(term));
+                        });
+                        
+                        // Hide empty category sections
+                        document.querySelectorAll('.category-block').forEach(block => {
+                            const hasVisibleItems = block.querySelectorAll('li:not(.d-none)').length > 0;
+                            block.classList.toggle('d-none', !hasVisibleItems);
+                        });
+                    });
+                }
+            });
+        </script>
+</body>
+</html>
