@@ -5,6 +5,7 @@ config:
   markdown_footer_file: "config/footer.md"
   up_arrow_image: "https://raw.githubusercontent.com/derekvincent/awesome-rally/main/assets/up-arrow.png"
   html_enable: true
+  html_folder: docs
   
 labels:
   - label: "cars" 
