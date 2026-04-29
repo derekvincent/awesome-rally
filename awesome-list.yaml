@@ -85,6 +85,10 @@ categories:
     label: Scoring and Statistics
     description: some great websites for the rally scoring and statistics for different series, competitors and events
     parent: rally-resources
+  - name: rally-news
+    label: Rally News and Media 
+    description: All the Rally news needed 
+    parent: rally-resources
   - name: rally-training
     label: Rally Training
     description: Rally Training and Schools
@@ -236,6 +240,11 @@ items:
     name: Rally Sputnik
     category: canadian-rally-teams
 
+## Rally News
+  - link_id: https://rallyracingnews.com/
+    name: Rally Racing News
+    category: rally-news
+    
 ## Resources and Schools 
   - link_id: https://racelab.co/
     name: Race Lab - Ontario Rally School
