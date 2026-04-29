@@ -54,6 +54,8 @@ If you like to add or update items, feel free to open an [issue](https://github.
 - [Rally Resources](#rally-resources) _0 items_
     - [Scoring and Statistics](#scoring-stats) _3 items_
 
+    - [Rally News and Media](#rally-news) _1 items_
+
     - [Rally Training](#rally-training) _4 items_
 
 
@@ -248,6 +250,14 @@ _some great websites for the rally scoring and statistics for different series, 
 - **[eWRC Results](https://www.ewrc-results.com/)**  - 
 - **[Rally Combiner Thing](https://www.sneakattackrally.com/ARACombinerThing/index.html)**  - 
 - **[Rally Scoring - results, services and software](https://www.rallyscoring.com/)**  - Website with live performance rally result and rally scoring service
+
+### <a id='rally-news'></a>Rally News and Media
+
+<a href="#contents"><img align="right" width="16" height="16" src="https://raw.githubusercontent.com/derekvincent/awesome-rally/main/assets/up-arrow.png" alt="Back to top"></a>
+
+_All the Rally news needed_
+
+- **[Rally Racing News](https://rallyracingnews.com/)**  - 
 
 ### <a id='rally-training'></a>Rally Training
 
