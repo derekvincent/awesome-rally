@@ -165,7 +165,7 @@ _Pacific Coast Rally Clubs and Organizations_
 
 _Canadian Regional Championship_
 
-- **[ECRC](http://www.ecrc-crec.ca/)**  - Championnat des Rallyes de l'Est du Canada
+- **[ECRC](http://www.ecrc-crec.ca/)**  - Eastern Canadian Rally Championship
 - **[WCRC](https://www.wcrcrally.com/)**  - Western Canadian Rally Championship
 
 #### <a id='events-ontario-regional'></a>Ontario Regional Rallies
