@@ -129,7 +129,7 @@ _Quebec Rally Clubs and Organizations_
 - **[Club Auto Sport La Licorne](http://www.casll.qc.ca/)**  - 
 - **[Rallye Baie-des-Chaleurs | 26 au 28 juin 2026](http://www.rallyebdc.com/)**  - Vivez l’intensité du Rallye Baie-des-Chaleurs en Gaspésie. Un spectacle de course automobile impressionnant sur routes de gravier, accessible à tous, avec une ambiance conviviale à découvrir sur place.
 - **[Club Rallye Perce-Neige Maniwaki](http://www.rallyeperceneige.com/)**  - 
-- **[Club de Rallye Charlevoix](https://www.rallyecharlevoix.com/Le-club-CRDC)**  - 
+- **[Club Rallye De Charlevoix  | RallyeCharlevoix.com](https://www.rallyecharlevoix.com/Le-club-CRDC)**  - Club organisateur du Rallye de Charlevoix, membre de CARS et RSQ.
 - **[Club Rallye Rimouski](https://www.facebook.com/clubrallyerimouski)**  - 
 - **[Club Auto de Rallye de l'Outaouais (CARO)](https://www.facebook.com/CADORallye/)**  - 
 
@@ -185,7 +185,7 @@ _Regional Rallies_
 
 _Regional Rallies_
 
-- **[Rallye de Charlevoix](https://www.rallyecharlevoix.com/)**  - 
+- **[Bienvenue sur le site officiel du Rallye de Charlevoix | RallyeCharlevoix.com](https://www.rallyecharlevoix.com/)**  - Le Rallye de Charlevoix est reconnu à travers le continent comme l'une des plus remarquables compétitions de rallye de performance...
 - **[Rallye de Sanair](https://rallyedesanair.ca/)**  - 
 
 #### <a id='events-eastern-regional'></a>Atlantic Regional Rallies
@@ -266,8 +266,8 @@ _All the Rally news needed_
 _Rally Training and Schools_
 
 - **[Race Lab - Ontario Rally School](https://racelab.co/)**  - 
-- **[Team O'Neil Rally School](https://teamoneil.com/)**  - 
-- **[DirtFish Rally School](https://drive.dirtfish.com/drive/drive-now/)**  - 
+- **[Team O'Neil Rally School](https://teamoneil.com/)**  - Team O'Neil Rally School is the leader in loose surface driver training for rally racing, tactical mobility, off-road, winter driving & more.
+- **[Drive Now - DirtFish](https://drive.dirtfish.com/drive/drive-now/)**  - Experience thrilling adventures with DirtFish Rally Driving Courses, no prior experience needed for an unforgettable ride.
 - **[The Firm - Rally School](https://gorally.com/)**  - 
 
 ---
