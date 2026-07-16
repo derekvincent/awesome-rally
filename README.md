@@ -95,7 +95,7 @@ _Canadian Rally Sanctioning Bodies_
 
 _Canadian National Rally Championship Events_
 
-- **[crc](https://carsrally.ca)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
+- **[Home | Canadian Rally Championship](https://carsrally.ca)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - The Canadian Rally Championship is Canada's top tier performance rally racing motorsport series, consisting of eight events held from coast to coast.
 - **[Rally of the Tall Pines](https://www.tallpinesrally.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
 
 ### <a id='canadian-rally-clubs'></a>Canadian Rally Clubs
@@ -118,7 +118,7 @@ _Ontario Rally Clubs and Organizations_
 - **[Peterborough Motor Sports Club](https://www.pmsc.on.ca/)**  - 
 - **[Toronto Autosport Club](https://www.torontoautosportclub.ca/)**  - 
 - **[Southern Ontario Performance Drivers Association](https://spda-online.ca/)**  - 
-- **[St. Lawrence Automobile Club](https://www.stlac.ca)**  - 
+- **[Welcome to the Home of the ST Lawrence Automobile Club (ST LAC)](https://www.stlac.ca)**  - A Motorsport Group for Automobile Enthusiasts in Eastern Ontario
 
 #### <a id='quebec-rally-clubs'></a>Quebec Rally Clubs
 
