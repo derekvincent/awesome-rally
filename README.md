@@ -20,7 +20,7 @@ If you like to add or update items, feel free to open an [issue](https://github.
 - [Canadian Rally](#canadian-rally) _0 items_
     - [Canadian Sanctioning Bodies](#sanctioning-bodies-canada) _6 items_
 
-    - [Canadian Rally Championship](#events-canadian-national) _2 items_
+    - [Canadian Rally Championship](#events-canadian-national) _7 items_
 
     - [Canadian Rally Clubs](#canadian-rally-clubs) _0 items_
       - [Ontario Rally Clubs](#ontario-rally-clubs) _8 items_
@@ -45,6 +45,10 @@ If you like to add or update items, feel free to open an [issue](https://github.
 
 - [Sanctioning Bodies](#sanctioning-bodies) _0 items_
     - [United States Sanctioning Bodies](#sanctioning-bodies-us) _2 items_
+      - [United States National Rallies](#events-us-national) _7 items_
+
+      - [United States Regional Rallies](#events-us-regional) _2 items_
+
 
 
 - [Rally Teams](#rally-teams) _0 items_
@@ -54,9 +58,13 @@ If you like to add or update items, feel free to open an [issue](https://github.
 - [Rally Resources](#rally-resources) _0 items_
     - [Scoring and Statistics](#scoring-stats) _3 items_
 
-    - [Rally News and Media](#rally-news) _1 items_
+    - [Rally News and Media](#rally-news) _7 items_
 
     - [Rally Training](#rally-training) _4 items_
+
+    - [Equipment, Gear & Prep Shops](#rally-equipment) _8 items_
+
+    - [Driver & Co-Driver Tools](#codriver-driver-tools) _4 items_
 
 
 - [Others](#other) _0 items_
@@ -65,7 +73,12 @@ If you like to add or update items, feel free to open an [issue](https://github.
 
 [legend]: #
 ## Legend
-- <img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" style="display:inline;" width="13" height="13">&nbsp; <b>CARS</b>  - Canadian Association of Rally Sport
+- <img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" style="display:inline;" width="13" height="13">&nbsp; <b>CARS</b>  - Canadian Association of Rally Sport Affiliated
+- <img src="https://www.americanrallyassociation.org/favicon.ico" style="display:inline;" width="13" height="13">&nbsp; <b>ARA</b>  - American Rally Association Affiliated
+- <img src="https://nasarallysport.com/main/sites/default/files/favicon.ico" style="display:inline;" width="13" height="13">&nbsp; <b>NASA</b>  - NASA Rally Sport Affiliated
+- <img src="https://www.fia.com/sites/default/files/favicon.ico" style="display:inline;" width="13" height="13">&nbsp; <b>FIA</b>  - FIA Homologated or Approved Equipment / Standard
+- <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" style="display:inline;" width="13" height="13">&nbsp; <b>Canadian</b>  - Canadian Business, Club, or Event
+- <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" style="display:inline;" width="13" height="13">&nbsp; <b>USA</b>  - United States Business, Club, or Event
 
 [contents]: #
 
@@ -82,10 +95,10 @@ _Canadian Rally Resources_
 
 _Canadian Rally Sanctioning Bodies_
 
-- **[CARS Home | CarsRally](https://carsrally.ca/cars-home/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
-- **[Rallysport Ontario](https://rallysport.on.ca/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
-- **[Rallye Sport Quebec](https://rsq.qc.ca/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
-- **[Atlantic Region Motor Sports](https://www.armsinc.ca/rally/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
+- **[CARS Home | CarsRally](https://carsrally.ca/cars-home/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - 
+- **[Rallysport Ontario](https://rallysport.on.ca/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - 
+- **[Rallye Sport Quebec](https://rsq.qc.ca/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - 
+- **[Atlantic Region Motor Sports](https://www.armsinc.ca/rally/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - 
 - **[Rally Western Canada](https://www.rallywest.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
 - **[Rally Pacific Motorsports](http://www.rallybc.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
 
@@ -97,6 +110,11 @@ _Canadian National Rally Championship Events_
 
 - **[Home | Canadian Rally Championship](https://carsrally.ca)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - The Canadian Rally Championship is Canada's top tier performance rally racing motorsport series, consisting of eight events held from coast to coast.
 - **[Rally of the Tall Pines](https://www.tallpinesrally.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
+- **[Rallye Perce-Neige](https://rallyeperceneige.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - Iconic winter rally in Maniwaki, Quebec (CRC National Event)
+- **[Rallye Baie-des-Chaleurs | 26 au 28 juin 2026](https://rallyebdc.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - Vivez l’intensité du Rallye Baie-des-Chaleurs en Gaspésie. Un spectacle de course automobile impressionnant sur routes de gravier, accessible à tous, avec une ambiance conviviale à découvrir sur place.
+- **[Pacific Forest Rally](https://www.pacificforestrally.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - Technical mountain gravel rally in Merritt, British Columbia (CRC National Event)
+- **[Big White Winter Rally](https://www.bigwhiterally.ca/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - Snow and ice mountain rally at Big White Resort, Kelowna, BC (CRC National Event)
+- **[Rocky Mountain Rally](https://www.rockymountainrally.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - Historic mountain rally in the Columbia Valley, BC (CRC National Event)
 
 ### <a id='canadian-rally-clubs'></a>Canadian Rally Clubs
 
@@ -129,7 +147,7 @@ _Quebec Rally Clubs and Organizations_
 - **[Club Auto Sport La Licorne](http://www.casll.qc.ca/)**  - 
 - **[Rallye Baie-des-Chaleurs | 26 au 28 juin 2026](http://www.rallyebdc.com/)**  - Vivez l’intensité du Rallye Baie-des-Chaleurs en Gaspésie. Un spectacle de course automobile impressionnant sur routes de gravier, accessible à tous, avec une ambiance conviviale à découvrir sur place.
 - **[Club Rallye Perce-Neige Maniwaki](http://www.rallyeperceneige.com/)**  - 
-- **[Club Rallye De Charlevoix  | RallyeCharlevoix.com](https://www.rallyecharlevoix.com/Le-club-CRDC)**  - Club organisateur du Rallye de Charlevoix, membre de CARS et RSQ.
+- **[Club de Rallye Charlevoix](https://www.rallyecharlevoix.com/Le-club-CRDC)**  - 
 - **[Club Rallye Rimouski](https://www.facebook.com/clubrallyerimouski)**  - 
 - **[Club Auto de Rallye de l'Outaouais (CARO)](https://www.facebook.com/CADORallye/)**  - 
 
@@ -185,7 +203,7 @@ _Regional Rallies_
 
 _Regional Rallies_
 
-- **[Bienvenue sur le site officiel du Rallye de Charlevoix | RallyeCharlevoix.com](https://www.rallyecharlevoix.com/)**  - Le Rallye de Charlevoix est reconnu à travers le continent comme l'une des plus remarquables compétitions de rallye de performance...
+- **[Rallye de Charlevoix](https://www.rallyecharlevoix.com/)**  - 
 - **[Rallye de Sanair](https://rallyedesanair.ca/)**  - 
 
 #### <a id='events-eastern-regional'></a>Atlantic Regional Rallies
@@ -212,8 +230,37 @@ _Official Rally Sanctioning Bodies_
 
 _United States Rally Sanctioning Bodies_
 
-- **[American Rally Association](https://www.americanrallyassociation.org/)**  - 
-- **[NASA Rally Sport](https://nasarallysport.com)**  - 
+- **[American Rally Association](https://www.americanrallyassociation.org/)** <code><img src="https://www.americanrallyassociation.org/favicon.ico" alt="ARA" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - 
+- **[NASA Rally Sport](https://nasarallysport.com)** <code><img src="https://nasarallysport.com/main/sites/default/files/favicon.ico" alt="NASA" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - 
+
+#### <a id='events-us-national'></a>United States National Rallies
+
+<a href="#contents"><img align="right" width="16" height="16" src="https://raw.githubusercontent.com/derekvincent/awesome-rally/main/assets/up-arrow.png" alt="Back to top"></a>
+
+_American Rally Association (ARA) and major US national rally events_
+
+- **[Sno*Drift National Rally | Experience Winter Rally Action](https://www.sno-drift.org/)** <code><img src="https://www.americanrallyassociation.org/favicon.ico" alt="ARA" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Discover the Sno*Drift Rally, a premier winter rally event in Michigan featuring specially prepared cars racing on snowy forest roads. Join us for high-performance competition and community excitement.
+- **[100 Acre Wood Rally](https://100acrewood.org/)** <code><img src="https://www.americanrallyassociation.org/favicon.ico" alt="ARA" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - High-speed gravel rally held in the Ozark foothills of Missouri (ARA National)
+- **[Olympus Rally](https://www.olympusrally.com/)** <code><img src="https://www.americanrallyassociation.org/favicon.ico" alt="ARA" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Historic technical forest rally in Washington State (ARA National)
+- **[cancelled 2025](https://www.newenglandforestrally.com/)** <code><img src="https://www.americanrallyassociation.org/favicon.ico" alt="ARA" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Rough and fast forest road rally in Maine and New Hampshire (ARA National)
+- **[Home - Ojibwe Forests Rally](https://ojibweforestsrally.com/)** <code><img src="https://www.americanrallyassociation.org/favicon.ico" alt="ARA" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Fast sand and gravel forest rally in Minnesota (ARA National)
+- **[Susquehannock Trail Performance Rally (STPR)](https://www.stpr.org/)** <code><img src="https://www.americanrallyassociation.org/favicon.ico" alt="ARA" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Spectator Schedule Spectator schedule is available!Times are estimated and subject to change.      Volunteer Registration is now open 
+
+Volunteer Registration is now open for STPR 2026.
+And that is no joke!
+
+
+STPR
+- **[Lake Superior Performance Rally (LSPR)](https://lsprorally.com/)** <code><img src="https://www.americanrallyassociation.org/favicon.ico" alt="ARA" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Historic autumn forest rally on Michigan's Upper Peninsula (ARA National)
+
+#### <a id='events-us-regional'></a>United States Regional Rallies
+
+<a href="#contents"><img align="right" width="16" height="16" src="https://raw.githubusercontent.com/derekvincent/awesome-rally/main/assets/up-arrow.png" alt="Back to top"></a>
+
+_US regional performance rallies and rallysprints_
+
+- **[Sandblast Rally](https://www.sandblastrally.com/)** <code><img src="https://nasarallysport.com/main/sites/default/files/favicon.ico" alt="NASA" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Deep sand and gravel rally in Cheraw, South Carolina (NASA Rally Sport)
+- **[Missouri Ozark Rally](https://www.ozarkrally.com/)** <code><img src="https://www.americanrallyassociation.org/favicon.ico" alt="ARA" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Technical regional gravel rally in Missouri (ARA Regional)
 
 ---
 
@@ -258,6 +305,12 @@ _some great websites for the rally scoring and statistics for different series, 
 _All the Rally news needed_
 
 - **[Rally Racing News](https://rallyracingnews.com/)**  - 
+- **[All rallying. One source. – DirtFish](https://dirtfish.com/)** <code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> -   ShareTweetWhatsAppTelegramRedditEmail
+- **[Inside Track Motorsport News](https://www.insidetracknews.com/)** <code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - Official Canadian motorsport magazine featuring Canadian Rally Championship (CRC) coverage
+- **[OpenPaddock.net](https://www.openpaddock.net/)** <code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Open Paddock is the home of the RallyCast podcast. Our mix of opinion and news commentary covers the WRC, American Rally Association, Rally America, NASA Rally Sport, and Rallycross with regular sp…
+- **[SpecialStage Rally Community](https://www.specialstage.com/)** <code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Longest-running North American rally competitor forum, tech discussions, and event hub
+- **[RallySport Magazine](https://rallysportmag.com/)**  - Global rally news, technical features, historical retrospectives, and podcasts
+- **[WRC - World Rally Championship](https://www.wrc.com/)** <code><img src="https://www.fia.com/sites/default/files/favicon.ico" alt="FIA" style="display:inline;" width="16" height="16"></code> - Official news, live stage timing, video highlights, and standings for the FIA World Rally Championship
 
 ### <a id='rally-training'></a>Rally Training
 
@@ -269,6 +322,32 @@ _Rally Training and Schools_
 - **[Team O'Neil Rally School](https://teamoneil.com/)**  - Team O'Neil Rally School is the leader in loose surface driver training for rally racing, tactical mobility, off-road, winter driving & more.
 - **[Drive Now - DirtFish](https://drive.dirtfish.com/drive/drive-now/)**  - Experience thrilling adventures with DirtFish Rally Driving Courses, no prior experience needed for an unforgettable ride.
 - **[The Firm - Rally School](https://gorally.com/)**  - 
+
+### <a id='rally-equipment'></a>Equipment, Gear & Prep Shops
+
+<a href="#contents"><img align="right" width="16" height="16" src="https://raw.githubusercontent.com/derekvincent/awesome-rally/main/assets/up-arrow.png" alt="Back to top"></a>
+
+_Rally safety gear, performance parts, tire suppliers, and vehicle preparation shops_
+
+- **[Four Star Motorsports](https://www.fourstarmotorsports.com/)** <code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - Four Star Motorsports specializes in parts for Subaru, Mitsubishi, Audi, BMW Mini and Suzuki. Subaru, Mitsubishi, Honda, Toyota, Audi, wheels, tires, suspension, engine builds, movie cars, picture cars, all fall under our skill set. We sell rally tires, a lot of rally tires. Movie & TV car prep.
+- **[Can-Jam Motorsports](https://www.canjammotorsports.com/)** <code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - Championship-winning Canadian Subaru rally team, tuning, and vehicle prep shop (Markham, ON)
+- **[Lachute Performance](https://lachuteperformance.com/)** <code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - High-performance Subaru rally racing engine, exhaust, and suspension development (Lachute, QC)
+- **[KNS Autosport](https://knsautosport.com/)** <code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - Canadian rally prep shop, safety equipment, and motorsport parts supplier (Montreal, QC)
+- **[Primitive Racing](https://getprimitive.com/)** <code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - US rally armor, skidplates, suspension, and performance parts specialist
+- **[Susquehanna MotorSports (Rallylights)](https://www.rallylights.com/)** <code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - High-performance rally auxiliary lighting, wiring, and electrical equipment
+- **[Samsonas Motorsport | Gearboxes & Dampers](https://samsonas.com/)** <code><img src="https://www.fia.com/sites/default/files/favicon.ico" alt="FIA" style="display:inline;" width="16" height="16"></code> - Sequential gearboxes and performance dampers for motorsport professionals. Rally, drift, drag, circuit and offroad racing.
+- **[Demon Tweeks Rally](https://www.demon-tweeks.com/ca/motorsport/rallying/)** <code><img src="https://www.fia.com/sites/default/files/favicon.ico" alt="FIA" style="display:inline;" width="16" height="16"></code> - Global supplier of FIA safety gear, seats, harnesses, and rally equipment
+
+### <a id='codriver-driver-tools'></a>Driver & Co-Driver Tools
+
+<a href="#contents"><img align="right" width="16" height="16" src="https://raw.githubusercontent.com/derekvincent/awesome-rally/main/assets/up-arrow.png" alt="Back to top"></a>
+
+_Pace note books, rally computers, timing tools, and navigation software_
+
+- **[Monit Rally](https://www.monitrally.com/)**  - Precision digital rally tripmeters and co-driver timing equipment
+- **[Terratrip](https://www.terratrip.com/)**  - Classic and modern rally computers, probes, and intercom systems
+- **[Jemba Inertia Notes System](http://www.jemba.se/)**  - Computer-generated pace note creation system used in North American rally
+- **[Don Barrow Rally Navigation](https://www.donbarrow.co.uk/)**  - Co-driver magnifiers, lights, pace note books, and navigation accessories
 
 ---
 
