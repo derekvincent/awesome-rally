@@ -7,11 +7,12 @@
 
 <p align="center">
     <a href="https://awesome.re" title="Awesome"><img src="https://awesome.re/badge.svg"></a>
+    <img src="../assets/awesome-rally-badge-1138x1260.png" style="width:50%" >
 </p>
 
 A curated list of Canadian Rally Resources, Clubs, Teams, and Events
 
-If you like to add or update items, feel free to open an [issue](https://github.com/derekvincent/awsome-list-template/issues/new/choose), submit a [pull request](https://github.com/derekvincent/awsome-list-template/pulls), or directly edit the [projects.yaml](https://github.com/derekvincent/awsome-list-template/edit/main/projects.yaml). Contributions are very welcome!
+If you like to add or update items, feel free to open an [issue](https://github.com/derekvincent/awesome-rally/issues/new/choose), submit a [pull request](https://github.com/derekvincent/awesome-rally/pulls), or directly edit the [projects.yaml](https://github.com/derekvincent/awesome-rally/edit/main/projects.yaml). Contributions are very welcome!
 
 
 [categories]: #
@@ -108,7 +109,7 @@ _Canadian Rally Sanctioning Bodies_
 
 _Canadian National Rally Championship Events_
 
-- **[Home | Canadian Rally Championship](https://carsrally.ca)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - The Canadian Rally Championship is Canada's top tier performance rally racing motorsport series, consisting of eight events held from coast to coast.
+- **[crc](https://carsrally.ca)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
 - **[Rally of the Tall Pines](https://www.tallpinesrally.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
 - **[Rallye Perce-Neige](https://rallyeperceneige.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - Iconic winter rally in Maniwaki, Quebec (CRC National Event)
 - **[Rallye Baie-des-Chaleurs | 26 au 28 juin 2026](https://rallyebdc.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - Vivez l’intensité du Rallye Baie-des-Chaleurs en Gaspésie. Un spectacle de course automobile impressionnant sur routes de gravier, accessible à tous, avec une ambiance conviviale à découvrir sur place.
@@ -147,7 +148,7 @@ _Quebec Rally Clubs and Organizations_
 - **[Club Auto Sport La Licorne](http://www.casll.qc.ca/)**  - 
 - **[Rallye Baie-des-Chaleurs | 26 au 28 juin 2026](http://www.rallyebdc.com/)**  - Vivez l’intensité du Rallye Baie-des-Chaleurs en Gaspésie. Un spectacle de course automobile impressionnant sur routes de gravier, accessible à tous, avec une ambiance conviviale à découvrir sur place.
 - **[Club Rallye Perce-Neige Maniwaki](http://www.rallyeperceneige.com/)**  - 
-- **[Club de Rallye Charlevoix](https://www.rallyecharlevoix.com/Le-club-CRDC)**  - 
+- **[Club Rallye De Charlevoix  | RallyeCharlevoix.com](https://www.rallyecharlevoix.com/Le-club-CRDC)**  - Club organisateur du Rallye de Charlevoix, membre de CARS et RSQ.
 - **[Club Rallye Rimouski](https://www.facebook.com/clubrallyerimouski)**  - 
 - **[Club Auto de Rallye de l'Outaouais (CARO)](https://www.facebook.com/CADORallye/)**  - 
 
@@ -203,7 +204,7 @@ _Regional Rallies_
 
 _Regional Rallies_
 
-- **[Rallye de Charlevoix](https://www.rallyecharlevoix.com/)**  - 
+- **[Bienvenue sur le site officiel du Rallye de Charlevoix | RallyeCharlevoix.com](https://www.rallyecharlevoix.com/)**  - Le Rallye de Charlevoix est reconnu à travers le continent comme l'une des plus remarquables compétitions de rallye de performance...
 - **[Rallye de Sanair](https://rallyedesanair.ca/)**  - 
 
 #### <a id='events-eastern-regional'></a>Atlantic Regional Rallies
