@@ -5,6 +5,7 @@
 
 <p align="center">
     <a href="https://awesome.re" title="Awesome"><img src="https://awesome.re/badge.svg"></a>
+    <img src="../assets/awesome-rally-badge-1138x1260.png" style="width:50%" >
 </p>
 
 {awesome_description}
