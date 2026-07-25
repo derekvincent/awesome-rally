@@ -11,7 +11,28 @@ labels:
   - label: "cars" 
     name: "CARS"
     image: "https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png"
-    description: "Canadian Association of Rally Sport"
+    description: "Canadian Association of Rally Sport Affiliated"
+  - label: "ara"
+    name: "ARA"
+    image: "https://www.americanrallyassociation.org/favicon.ico"
+    description: "American Rally Association Affiliated"
+  - label: "nasa"
+    name: "NASA"
+    image: "https://nasarallysport.com/main/sites/default/files/favicon.ico"
+    description: "NASA Rally Sport Affiliated"
+  - label: "fia"
+    name: "FIA"
+    image: "https://www.fia.com/sites/default/files/favicon.ico"
+    description: "FIA Homologated or Approved Equipment / Standard"
+  - label: "canadian"
+    name: "Canadian"
+    image: "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png"
+    description: "Canadian Business, Club, or Event"
+  - label: "us"
+    name: "USA"
+    image: "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png"
+    description: "United States Business, Club, or Event"
+
      
 categories:
   - name: canadian-rally
@@ -94,6 +115,23 @@ categories:
     label: Rally Training
     description: Rally Training and Schools
     parent: rally-resources
+  - name: events-us-national
+    label: United States National Rallies
+    description: American Rally Association (ARA) and major US national rally events
+    parent: sanctioning-bodies-us
+  - name: events-us-regional
+    label: United States Regional Rallies
+    description: US regional performance rallies and rallysprints
+    parent: sanctioning-bodies-us
+  - name: rally-equipment
+    label: Equipment, Gear & Prep Shops
+    description: Rally safety gear, performance parts, tire suppliers, and vehicle preparation shops
+    parent: rally-resources
+  - name: codriver-driver-tools
+    label: Driver & Co-Driver Tools
+    description: Pace note books, rally computers, timing tools, and navigation software
+    parent: rally-resources
+
 
 
 
@@ -101,25 +139,28 @@ items:
   - link_id: https://www.americanrallyassociation.org/
     name: American Rally Association 
     category: sanctioning-bodies-us 
+    labels: ['ara', 'us']
   - link_id: https://nasarallysport.com
     name: NASA Rally Sport 
     category: sanctioning-bodies-us 
+    labels: ['nasa', 'us']
   - link_id: https://carsrally.ca/cars-home/
     name: Canadian Association of Rallysport 
     category: sanctioning-bodies-canada 
-    labels: ['cars']
+    labels: ['cars', 'canadian']
   - link_id: https://rallysport.on.ca/
     name: Rallysport Ontario
     category: sanctioning-bodies-canada 
-    labels: ['cars']
+    labels: ['cars', 'canadian']
   - link_id: https://rsq.qc.ca/
     name: Rallye Sport Quebec
     category: sanctioning-bodies-canada 
-    labels: ['cars']  
+    labels: ['cars', 'canadian']  
   - link_id: https://www.armsinc.ca/rally/
     name: Atlantic Region Motor Sports
     category: sanctioning-bodies-canada 
-    labels: ['cars']   
+    labels: ['cars', 'canadian']   
+
   - link_id: https://www.rallywest.com/
     name: Rally Western Canada
     category: sanctioning-bodies-canada 
@@ -241,10 +282,40 @@ items:
     name: Rally Sputnik
     category: canadian-rally-teams
 
-## Rally News
+## Rally News & Media
   - link_id: https://rallyracingnews.com/
     name: Rally Racing News
     category: rally-news
+  - name: DirtFish Rally News
+    link_id: https://dirtfish.com/
+    description: Premier North American and global rally news outlet, podcasts, and race coverage
+    category: rally-news
+    labels: ['us']
+  - name: Inside Track Motorsport News
+    link_id: https://www.insidetracknews.com/
+    description: Official Canadian motorsport magazine featuring Canadian Rally Championship (CRC) coverage
+    category: rally-news
+    labels: ['canadian']
+  - name: Open Paddock & RallyCast
+    link_id: https://www.openpaddock.net/
+    description: North American rally news, podcasts, and commentary covering ARA, CRC, and WRC
+    category: rally-news
+    labels: ['us']
+  - name: SpecialStage Rally Community
+    link_id: https://www.specialstage.com/
+    description: Longest-running North American rally competitor forum, tech discussions, and event hub
+    category: rally-news
+    labels: ['us']
+  - name: RallySport Magazine
+    link_id: https://rallysportmag.com/
+    description: Global rally news, technical features, historical retrospectives, and podcasts
+    category: rally-news
+  - name: WRC - World Rally Championship
+    link_id: https://www.wrc.com/
+    description: Official news, live stage timing, video highlights, and standings for the FIA World Rally Championship
+    category: rally-news
+    labels: ['fia']
+
     
 ## Resources and Schools 
   - link_id: https://racelab.co/
@@ -269,3 +340,150 @@ items:
   - link_id: https://www.rallyscoring.com/
     name: Rally Scoring - results, services and software 
     category: scoring-stats
+
+## Canadian National Rally Championship (CRC) Events
+  - name: Rallye Perce-Neige
+    link_id: https://rallyeperceneige.com/
+    description: Iconic winter rally in Maniwaki, Quebec (CRC National Event)
+    category: events-canadian-national
+    labels: ['cars', 'canadian']
+  - name: Rallye Baie-des-Chaleurs
+    link_id: https://rallyebdc.com/
+    description: High-speed gravel rally in New Richmond, Gaspésie, Quebec (CRC National Event)
+    category: events-canadian-national
+    labels: ['cars', 'canadian']
+  - name: Pacific Forest Rally
+    link_id: https://www.pacificforestrally.com/
+    description: Technical mountain gravel rally in Merritt, British Columbia (CRC National Event)
+    category: events-canadian-national
+    labels: ['cars', 'canadian']
+  - name: Big White Winter Rally
+    link_id: https://www.bigwhiterally.ca/
+    description: Snow and ice mountain rally at Big White Resort, Kelowna, BC (CRC National Event)
+    category: events-canadian-national
+    labels: ['cars', 'canadian']
+  - name: Rocky Mountain Rally
+    link_id: https://www.rockymountainrally.com/
+    description: Historic mountain rally in the Columbia Valley, BC (CRC National Event)
+    category: events-canadian-national
+    labels: ['cars', 'canadian']
+
+## Canadian Rally Training
+  - name: Rallye Sport Québec Training Clinics
+    link_id: https://rsq.qc.ca/
+    description: Official RSQ annual novice rally driver and co-driver training clinics
+    category: rally-training
+    labels: ['cars', 'canadian']
+
+## Canadian Prep Shops & Equipment
+  - name: Four Star Motorsports
+    link_id: https://www.fourstarmotorsports.com/
+    description: Premier Canadian rally build, roll cage fabrication, and performance parts shop founded by Champion drivers Frank & Dan Sprongl (Georgetown, ON)
+    category: rally-equipment
+    labels: ['canadian']
+  - name: Can-Jam Motorsports
+    link_id: https://www.canjammotorsports.com/
+    description: Championship-winning Canadian Subaru rally team, tuning, and vehicle prep shop (Markham, ON)
+    category: rally-equipment
+    labels: ['canadian']
+  - name: Lachute Performance
+    link_id: https://lachuteperformance.com/
+    description: High-performance Subaru rally racing engine, exhaust, and suspension development (Lachute, QC)
+    category: rally-equipment
+    labels: ['canadian']
+  - name: KNS Autosport
+    link_id: https://knsautosport.com/
+    description: Canadian rally prep shop, safety equipment, and motorsport parts supplier (Montreal, QC)
+    category: rally-equipment
+    labels: ['canadian']
+
+## US National Rally Events (ARA)
+  - name: Sno*Drift Rally
+    link_id: https://www.sno-drift.org/
+    description: Annual winter rally in Montmorency County, Michigan (ARA National)
+    category: events-us-national
+    labels: ['ara', 'us']
+  - name: 100 Acre Wood Rally
+    link_id: https://100acrewood.org/
+    description: High-speed gravel rally held in the Ozark foothills of Missouri (ARA National)
+    category: events-us-national
+    labels: ['ara', 'us']
+  - name: Olympus Rally
+    link_id: https://www.olympusrally.com/
+    description: Historic technical forest rally in Washington State (ARA National)
+    category: events-us-national
+    labels: ['ara', 'us']
+  - name: New England Forest Rally (NEFR)
+    link_id: https://www.newenglandforestrally.com/
+    description: Rough and fast forest road rally in Maine and New Hampshire (ARA National)
+    category: events-us-national
+    labels: ['ara', 'us']
+  - name: Ojibwe Forests Rally
+    link_id: https://ojibweforestsrally.com/
+    description: Fast sand and gravel forest rally in Minnesota (ARA National)
+    category: events-us-national
+    labels: ['ara', 'us']
+  - name: Susquehannock Trail Performance Rally (STPR)
+    link_id: https://www.stpr.org/
+    description: Iconic high-speed forest rally in Wellsboro, Pennsylvania (ARA National)
+    category: events-us-national
+    labels: ['ara', 'us']
+  - name: Lake Superior Performance Rally (LSPR)
+    link_id: https://lsprorally.com/
+    description: Historic autumn forest rally on Michigan's Upper Peninsula (ARA National)
+    category: events-us-national
+    labels: ['ara', 'us']
+
+## US Regional & NASA Events
+  - name: Sandblast Rally
+    link_id: https://www.sandblastrally.com/
+    description: Deep sand and gravel rally in Cheraw, South Carolina (NASA Rally Sport)
+    category: events-us-regional
+    labels: ['nasa', 'us']
+  - name: Missouri Ozark Rally
+    link_id: https://www.ozarkrally.com/
+    description: Technical regional gravel rally in Missouri (ARA Regional)
+    category: events-us-regional
+    labels: ['ara', 'us']
+
+## Global Equipment & Suppliers
+  - name: Primitive Racing
+    link_id: https://getprimitive.com/
+    description: US rally armor, skidplates, suspension, and performance parts specialist
+    category: rally-equipment
+    labels: ['us']
+  - name: Susquehanna MotorSports (Rallylights)
+    link_id: https://www.rallylights.com/
+    description: High-performance rally auxiliary lighting, wiring, and electrical equipment
+    category: rally-equipment
+    labels: ['us']
+  - name: Samsonas Motorsport
+    link_id: https://samsonas.com/
+    description: Dogbox transmissions, sequential gearboxes, and rally suspension systems
+    category: rally-equipment
+    labels: ['fia']
+  - name: Demon Tweeks Rally
+    link_id: https://www.demon-tweeks.com/ca/motorsport/rallying/
+    description: Global supplier of FIA safety gear, seats, harnesses, and rally equipment
+    category: rally-equipment
+    labels: ['fia']
+
+## Driver & Co-Driver Tools
+  - name: Monit Rally
+    link_id: https://www.monitrally.com/
+    description: Precision digital rally tripmeters and co-driver timing equipment
+    category: codriver-driver-tools
+  - name: Terratrip
+    link_id: https://www.terratrip.com/
+    description: Classic and modern rally computers, probes, and intercom systems
+    category: codriver-driver-tools
+  - name: Jemba Inertia Notes System
+    link_id: http://www.jemba.se/
+    description: Computer-generated pace note creation system used in North American rally
+    category: codriver-driver-tools
+  - name: Don Barrow Rally Navigation
+    link_id: https://www.donbarrow.co.uk/
+    description: Co-driver magnifiers, lights, pace note books, and navigation accessories
+    category: codriver-driver-tools
+
+
