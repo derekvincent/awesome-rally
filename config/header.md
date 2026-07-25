@@ -9,4 +9,4 @@
 
 {awesome_description}
 
-If you like to add or update items, feel free to open an [issue](https://github.com/derekvincent/awsome-list-template/issues/new/choose), submit a [pull request](https://github.com/derekvincent/awsome-list-template/pulls), or directly edit the [projects.yaml](https://github.com/derekvincent/awsome-list-template/edit/main/projects.yaml). Contributions are very welcome!
+If you like to add or update items, feel free to open an [issue](https://github.com/derekvincent/awesome-rally/issues/new/choose), submit a [pull request](https://github.com/derekvincent/awesome-rally/pulls), or directly edit the [projects.yaml](https://github.com/derekvincent/awesome-rally/edit/main/projects.yaml). Contributions are very welcome!
