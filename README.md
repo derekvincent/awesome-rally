@@ -109,7 +109,7 @@ _Canadian Rally Sanctioning Bodies_
 
 _Canadian National Rally Championship Events_
 
-- **[crc](https://carsrally.ca)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
+- **[Home | Canadian Rally Championship](https://carsrally.ca)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - The Canadian Rally Championship is Canada's top tier performance rally racing motorsport series, consisting of eight events held from coast to coast.
 - **[Rally of the Tall Pines](https://www.tallpinesrally.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
 - **[Rallye Perce-Neige](https://rallyeperceneige.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - Iconic winter rally in Maniwaki, Quebec (CRC National Event)
 - **[Rallye Baie-des-Chaleurs | 26 au 28 juin 2026](https://rallyebdc.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - Vivez l’intensité du Rallye Baie-des-Chaleurs en Gaspésie. Un spectacle de course automobile impressionnant sur routes de gravier, accessible à tous, avec une ambiance conviviale à découvrir sur place.
@@ -245,7 +245,13 @@ _American Rally Association (ARA) and major US national rally events_
 - **[Olympus Rally](https://www.olympusrally.com/)** <code><img src="https://www.americanrallyassociation.org/favicon.ico" alt="ARA" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Historic technical forest rally in Washington State (ARA National)
 - **[cancelled 2025](https://www.newenglandforestrally.com/)** <code><img src="https://www.americanrallyassociation.org/favicon.ico" alt="ARA" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Rough and fast forest road rally in Maine and New Hampshire (ARA National)
 - **[Home - Ojibwe Forests Rally](https://ojibweforestsrally.com/)** <code><img src="https://www.americanrallyassociation.org/favicon.ico" alt="ARA" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Fast sand and gravel forest rally in Minnesota (ARA National)
-- **[Susquehannock Trail Performance Rally (STPR)](https://www.stpr.org/)** <code><img src="https://www.americanrallyassociation.org/favicon.ico" alt="ARA" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Iconic high-speed forest rally in Wellsboro, Pennsylvania (ARA National)
+- **[Susquehannock Trail Performance Rally (STPR)](https://www.stpr.org/)** <code><img src="https://www.americanrallyassociation.org/favicon.ico" alt="ARA" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Spectator Schedule Spectator schedule is available!Times are estimated and subject to change.      Volunteer Registration is now open 
+
+Volunteer Registration is now open for STPR 2026.
+And that is no joke!
+
+
+STPR
 - **[Lake Superior Performance Rally (LSPR)](https://lsprorally.com/)** <code><img src="https://www.americanrallyassociation.org/favicon.ico" alt="ARA" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Historic autumn forest rally on Michigan's Upper Peninsula (ARA National)
 
 #### <a id='events-us-regional'></a>United States Regional Rallies
@@ -291,7 +297,7 @@ _some great websites for the rally scoring and statistics for different series, 
 
 - **[eWRC Results](https://www.ewrc-results.com/)**  - 
 - **[Rally Combiner Thing](https://www.sneakattackrally.com/ARACombinerThing/index.html)**  - 
-- **[Rally Scoring - results, services and software](https://www.rallyscoring.com/)**  - Website with live performance rally result and rally scoring service
+- **[Rally Scoring - results, services and software](https://www.rallyscoring.com/)**  - 
 
 ### <a id='rally-news'></a>Rally News and Media
 
