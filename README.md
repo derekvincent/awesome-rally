@@ -109,7 +109,7 @@ _Canadian Rally Sanctioning Bodies_
 
 _Canadian National Rally Championship Events_
 
-- **[Home | Canadian Rally Championship](https://carsrally.ca)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - The Canadian Rally Championship is Canada's top tier performance rally racing motorsport series, consisting of eight events held from coast to coast.
+- **[crc](https://carsrally.ca)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
 - **[Rally of the Tall Pines](https://www.tallpinesrally.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
 - **[Rallye Perce-Neige](https://rallyeperceneige.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - Iconic winter rally in Maniwaki, Quebec (CRC National Event)
 - **[Rallye Baie-des-Chaleurs | 26 au 28 juin 2026](https://rallyebdc.com/)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code><code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - Vivez l’intensité du Rallye Baie-des-Chaleurs en Gaspésie. Un spectacle de course automobile impressionnant sur routes de gravier, accessible à tous, avec une ambiance conviviale à découvrir sur place.
@@ -297,7 +297,7 @@ _some great websites for the rally scoring and statistics for different series, 
 
 - **[eWRC Results](https://www.ewrc-results.com/)**  - 
 - **[Rally Combiner Thing](https://www.sneakattackrally.com/ARACombinerThing/index.html)**  - 
-- **[Rally Scoring - results, services and software](https://www.rallyscoring.com/)**  - 
+- **[Rally Scoring - results, services and software](https://www.rallyscoring.com/)**  - Website with live performance rally result and rally scoring service
 
 ### <a id='rally-news'></a>Rally News and Media
 
