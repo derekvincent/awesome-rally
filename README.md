@@ -148,7 +148,7 @@ _Quebec Rally Clubs and Organizations_
 - **[Club Auto Sport La Licorne](http://www.casll.qc.ca/)**  - 
 - **[Rallye Baie-des-Chaleurs | 26 au 28 juin 2026](http://www.rallyebdc.com/)**  - Vivez l’intensité du Rallye Baie-des-Chaleurs en Gaspésie. Un spectacle de course automobile impressionnant sur routes de gravier, accessible à tous, avec une ambiance conviviale à découvrir sur place.
 - **[Club Rallye Perce-Neige Maniwaki](http://www.rallyeperceneige.com/)**  - 
-- **[Club Rallye De Charlevoix  | RallyeCharlevoix.com](https://www.rallyecharlevoix.com/Le-club-CRDC)**  - Club organisateur du Rallye de Charlevoix, membre de CARS et RSQ.
+- **[Club de Rallye Charlevoix](https://www.rallyecharlevoix.com/Le-club-CRDC)**  - 
 - **[Club Rallye Rimouski](https://www.facebook.com/clubrallyerimouski)**  - 
 - **[Club Auto de Rallye de l'Outaouais (CARO)](https://www.facebook.com/CADORallye/)**  - 
 
@@ -204,7 +204,7 @@ _Regional Rallies_
 
 _Regional Rallies_
 
-- **[Bienvenue sur le site officiel du Rallye de Charlevoix | RallyeCharlevoix.com](https://www.rallyecharlevoix.com/)**  - Le Rallye de Charlevoix est reconnu à travers le continent comme l'une des plus remarquables compétitions de rallye de performance...
+- **[Rallye de Charlevoix](https://www.rallyecharlevoix.com/)**  - 
 - **[Rallye de Sanair](https://rallyedesanair.ca/)**  - 
 
 #### <a id='events-eastern-regional'></a>Atlantic Regional Rallies
@@ -308,7 +308,7 @@ _All the Rally news needed_
 - **[Rally Racing News](https://rallyracingnews.com/)**  - 
 - **[All rallying. One source. – DirtFish](https://dirtfish.com/)** <code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> -   ShareTweetWhatsAppTelegramRedditEmail
 - **[Inside Track Motorsport News](https://www.insidetracknews.com/)** <code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png" alt="Canadian" style="display:inline;" width="16" height="16"></code> - Official Canadian motorsport magazine featuring Canadian Rally Championship (CRC) coverage
-- **[OpenPaddock.net](https://www.openpaddock.net/)** <code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Open Paddock is the home of the RallyCast podcast. Our mix of opinion and news commentary covers the WRC, American Rally Association, Rally America, NASA Rally Sport, and Rallycross with regular sp…
+- **[Open Paddock & RallyCast](https://www.openpaddock.net/)** <code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - North American rally news, podcasts, and commentary covering ARA, CRC, and WRC
 - **[SpecialStage Rally Community](https://www.specialstage.com/)** <code><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png" alt="USA" style="display:inline;" width="16" height="16"></code> - Longest-running North American rally competitor forum, tech discussions, and event hub
 - **[RallySport Magazine](https://rallysportmag.com/)**  - Global rally news, technical features, historical retrospectives, and podcasts
 - **[WRC - World Rally Championship](https://www.wrc.com/)** <code><img src="https://www.fia.com/sites/default/files/favicon.ico" alt="FIA" style="display:inline;" width="16" height="16"></code> - Official news, live stage timing, video highlights, and standings for the FIA World Rally Championship
