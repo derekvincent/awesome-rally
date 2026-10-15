@@ -1,16 +1,2 @@
-# Latest Changes - 2026-10-08
-## Section: Contents
->### Changed:
->**Previous**
-> - **[crc](https://carsrally.ca)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - 
->
->**New**
-> - **[Home | Canadian Rally Championship](https://carsrally.ca)** <code><img src="https://carsrally.ca/wp-content/themes/crcrally/favicon-32x32.png" alt="CARS" style="display:inline;" width="16" height="16"></code> - The Canadian Rally Championship is Canada's top tier performance rally racing motorsport series, consisting of eight events held from coast to coast.
-
->### Changed:
->**Previous**
-> - **[Rally Scoring - results, services and software](https://www.rallyscoring.com/)**  - Website with live performance rally result and rally scoring service
->
->**New**
-> - **[Rally Scoring - results, services and software](https://www.rallyscoring.com/)**  - 
-
+# Latest Changes - 2026-10-15
+**No changes detected in this build.**
