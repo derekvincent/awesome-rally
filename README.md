@@ -297,7 +297,7 @@ _some great websites for the rally scoring and statistics for different series, 
 
 - **[eWRC Results](https://www.ewrc-results.com/)**  - 
 - **[Rally Combiner Thing](https://www.sneakattackrally.com/ARACombinerThing/index.html)**  - 
-- **[Rally Scoring - results, services and software](https://www.rallyscoring.com/)**  - 
+- **[Rally Scoring - results, services and software](https://www.rallyscoring.com/)**  - Website with live performance rally result and rally scoring service
 
 ### <a id='rally-news'></a>Rally News and Media
 
@@ -321,7 +321,7 @@ _Rally Training and Schools_
 
 - **[Race Lab - Ontario Rally School](https://racelab.co/)**  - 
 - **[Team O'Neil Rally School](https://teamoneil.com/)**  - Team O'Neil Rally School is the leader in loose surface driver training for rally racing, tactical mobility, off-road, winter driving & more.
-- **[Drive Now - DirtFish](https://drive.dirtfish.com/drive/drive-now/)**  - Experience thrilling adventures with DirtFish Rally Driving Courses, no prior experience needed for an unforgettable ride.
+- **[Book Rally Driving Classes | Half Day to Three Day | DirtFish](https://drive.dirtfish.com/drive/drive-now/)**  - Compare DirtFish Half Day, One Day, and Three Day rally driving classes. Explore program goals, AWD and RWD options, and available booking dates.
 - **[The Firm - Rally School](https://gorally.com/)**  - 
 
 ### <a id='rally-equipment'></a>Equipment, Gear & Prep Shops
