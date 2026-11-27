@@ -297,7 +297,7 @@ _some great websites for the rally scoring and statistics for different series, 
 
 - **[eWRC Results](https://www.ewrc-results.com/)**  - 
 - **[Rally Combiner Thing](https://www.sneakattackrally.com/ARACombinerThing/index.html)**  - 
-- **[Rally Scoring - results, services and software](https://www.rallyscoring.com/)**  - Website with live performance rally result and rally scoring service
+- **[Rally Scoring - results, services and software](https://www.rallyscoring.com/)**  - 
 
 ### <a id='rally-news'></a>Rally News and Media
 
